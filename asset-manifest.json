@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wlc-frontend/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/wlc-frontend/static/js/main.dc553cee.chunk.js",
+    "main.js.map": "/wlc-frontend/static/js/main.dc553cee.chunk.js.map",
+    "runtime-main.js": "/wlc-frontend/static/js/runtime-main.4e41d65d.js",
+    "runtime-main.js.map": "/wlc-frontend/static/js/runtime-main.4e41d65d.js.map",
+    "static/js/2.b4f9974a.chunk.js": "/wlc-frontend/static/js/2.b4f9974a.chunk.js",
+    "static/js/2.b4f9974a.chunk.js.map": "/wlc-frontend/static/js/2.b4f9974a.chunk.js.map",
+    "index.html": "/wlc-frontend/index.html",
+    "precache-manifest.c65b5d897653a8c6b0e237de2307efa0.js": "/wlc-frontend/precache-manifest.c65b5d897653a8c6b0e237de2307efa0.js",
+    "service-worker.js": "/wlc-frontend/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/wlc-frontend/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b4f9974a.chunk.js.LICENSE.txt": "/wlc-frontend/static/js/2.b4f9974a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e41d65d.js",
+    "static/js/2.b4f9974a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.dc553cee.chunk.js"
+  ]
+}
