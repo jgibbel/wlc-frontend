@@ -21,8 +21,8 @@ function App() {
     <div className="header">
     <div className="logo"><Link className="" to="/"><h1 className="underline">WLC <span>for Social Impact</span></h1></Link></div>
     <div className="nav">
-      <div className="navLink"><NavLink className="underline" to="/">WHO WE ARE</NavLink></div> 
-      <div className="navLink"><NavLink className="underline" to="/mission">MISSION</NavLink></div>  
+      <div className="navLink"><NavLink className="underline" to="/">ABOUT</NavLink></div> 
+      <div className="navLink"><NavLink className="underline" to="/mission">WHAT WE OFFER</NavLink></div>  
       <div className="navLink"><NavLink className="underline" to="/members">MEMBERS</NavLink></div>   
       <div className="navLink"><NavLink className="underline" to="/join">JOIN</NavLink></div>   
       <div className="navLink">login</div>   
