@@ -7,6 +7,8 @@ import Members from './Members';
 import Join from './Join';
 import Events from './Events';
 
+import logo from "./images/wlc-logo.svg";
+
 import {
   BrowserRouter as Router,
   Switch,
@@ -19,20 +21,24 @@ function App() {
   return (
     <Router>
     <div className="header">
-    <div className="logo"><Link className="" to="/"><h1 className="underline">WLC <span>for Social Impact</span></h1></Link></div>
+    <div className="logo"><Link to="/"><img className="logo-width" src={logo} alt="WLC for Social Impact"/></Link></div>
     <div className="nav">
       <div className="navLink"><NavLink className="underline" to="/">ABOUT</NavLink></div> 
       <div className="navLink"><NavLink className="underline" to="/mission">WHAT WE OFFER</NavLink></div>  
       <div className="navLink"><NavLink className="underline" to="/members">MEMBERS</NavLink></div>   
-      <div className="navLink"><NavLink className="underline" to="/join">JOIN</NavLink></div>   
-      <div className="navLink">login</div>   
-       
+      <div className="navLink"><NavLink className="underline" to="/join">JOIN</NavLink></div>      
     </div>
 
     </div>
     <Switch>
         <Route exact path="/">
           <Home />
+          <hr></hr>
+          <Mission />
+          <hr></hr>
+          <Members />
+          <hr></hr>
+          <Join />
         </Route>
         <Route path="/mission">
           <Mission />
