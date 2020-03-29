@@ -74,7 +74,7 @@ displayNavBar = () => {
 displayMobileMenu = () => {
   return (
     <ul className="hamburgerDropDown">
-      <NavLink className="underline" to="/"><li onClick={this.handleClickTop} className='ham-link menu-link'>ABOUT</li></NavLink>
+      <NavLink className="underline" to="/about"><li onClick={this.handleClickTop} className='ham-link menu-link'>ABOUT</li></NavLink>
       <NavLink className="underline" to="/mission"><li onClick={this.handleClickTop} className='ham-link menu-link'>WHAT WE OFFER</li></NavLink>
       <NavLink className="underline" to="/members"><li onClick={this.handleClickTop} className='ham-link menu-link'>MEMBERS</li></NavLink>
       <NavLink className="underline" to="/join"><li onClick={this.handleClickTop} className='ham-link menu-link'>JOIN</li></NavLink>
@@ -90,7 +90,7 @@ displayMobileMenu = () => {
     <div className="logo"><Link to="/"><img className="logo-width" src={logo} alt="WLC for Social Impact"/></Link></div>
     <div className="nav-select">
         { this.state.open ?  this.displayMobileMenu() : null}
-        {this.props.windowWidth > 945 ? this.displayNavBar() : this.displayHamburgerMenu()}
+        {this.props.windowWidth > 775 ? this.displayNavBar() : this.displayHamburgerMenu()}
     </div>
 
     </div>

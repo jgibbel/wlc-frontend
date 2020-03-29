@@ -36,6 +36,7 @@ h1 {
   font-family: 'Enriqueta', serif;
   font-size: 45px;
   color: var(--dark-blue);
+  margin-right: 5vw;
 }
 
 .menu-link {
@@ -396,26 +397,23 @@ footer{
 }
 
 .landing-text {
-  font-size: 4em;
+  font-size: 8vw;
   margin: 0;
   padding-left: 5vw;
+  margin-right: 5vw;
   /* background-color: var(--sand); */
   
-  /* font-family: 'Arbutus Slab', serif; */
-font-family: 'Titan One', cursive;
-/* font-family: 'Abril Fatface', cursive; */
-/* font-family: 'Bree Serif', serif; */
+/* font-family: 'Titan One', cursive; */
+
+
 /* font-family: 'Alfa Slab One', cursive; */
-/* font-family: 'Volkhov', serif; */
-/* font-family: 'Ultra', serif; */
-/* font-family: 'Carter One', cursive; */
-/* font-family: 'Fugaz One', cursive; */
-/* font-family: 'Bevan', cursive; */
+
+
+font-family: 'Ultra', serif;
+
 /* font-family: 'Shrikhand', cursive; */
-/* font-family: 'Coustard', serif; */
-/* font-family: 'DM Serif Text', serif; */
-/* font-family: 'Racing Sans One', cursive; */
-/* font-family: 'Calistoga', cursive; */
+
+
   color: var(--dark-blue);
 }
 
@@ -423,4 +421,23 @@ font-family: 'Titan One', cursive;
   width: 100%;
   background-color: var(--sand);
   padding: 50px 0 75px 0;
+}
+
+.group-photo {
+width: 60vw;
+min-width: 300px;
+border-bottom: 5px solid var(--blue);
+border-right: 10px solid var(--blue);
+border-top: 5px solid var(--sand);
+border-left: 5px solid var(--sand);
+margin: 40px 0;
+}
+
+.g-p-c {
+  display: flex;
+  justify-content: center;
+}
+
+.lecture-photo {
+ width: 100vw
 }
