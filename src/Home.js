@@ -25,29 +25,29 @@ export class Home extends Component {
                 </div>
                 <div className="a-team">
                 <ACard photo="https://source.unsplash.com/200x200/?nature"
-                        name="Person"
-                        title="Job"
-                        organization="Organization" 
+                        name="Erica Hamilton"
+                        title="Faculty Member at NYU & Principal at Arbor Brothers"
+                        
                 />
                 <ACard photo="https://source.unsplash.com/200x200/?nature"
-                        name="Person"
-                        title="Job"
-                        organization="Organization" 
+                        name="Lara Galinsky"
+                        title="Founder & Social Impact Strategist at the Genuine"
                 />
                 <ACard photo="https://source.unsplash.com/200x200/?nature"
-                        name="Person"
-                        title="Job"
-                        organization="Organization" 
+                        name="Lisa Holton"
+                        title="Principal"
+                        organization="Holton Consulting" 
                 />
                 <ACard photo="https://source.unsplash.com/200x200/?nature"
-                        name="Person"
-                        title="Job"
-                        organization="Organization" 
+                        name="Jennifer Magida"
+                        title="CEO at the New York Peace Institute & Founder & ED of Youth Advocacy
+                        Corps"
+                        
                 />
                 <ACard photo="https://source.unsplash.com/200x200/?nature"
-                        name="Person"
-                        title="Job"
-                        organization="Organization" 
+                        name="Kelley Perkins"
+                        title="Executive Director"
+                        organization="Actions@EMBF" 
                 />
                 </div>
                 <div className="button"><p>JOIN</p></div>
