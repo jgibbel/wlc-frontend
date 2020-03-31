@@ -30,6 +30,10 @@ class App extends Component {
     <Router>
     
     <Switch>
+        <Route exact path="/wlc-frontend">
+          
+          <Landing />
+        </Route>
         <Route exact path="/">
        
           <Landing />
