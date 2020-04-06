@@ -5,7 +5,7 @@ import image from "./images/wlc-meeting-standard.png";
 
 const Landing = () => {
     return (
-        <div className="landing-container">
+        // <div className="landing-container">
             <div className="vert-center">
             <HeaderTan />
             <div className="l-t-c">
@@ -14,7 +14,7 @@ const Landing = () => {
             {/* <div className="l-i-c"><img className="landing-image" src={image} alt="WLC Meeting" /> 
             </div> */}
             </div>
-        </div>
+        // </div>
     );
 }
 

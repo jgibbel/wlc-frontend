@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, 'Noto Sans JP', sans-serif;
+  font-family: -apple-system, 'Raleway', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -42,6 +42,20 @@ h1 {
 .menu-link {
   font-family: 'Rokkitt', serif;
   
+}
+
+p {
+  line-height: 1.5em;
+  font-size: 20px;
+}
+
+ul {
+  /* line-height: 2em; */
+  font-size: 20px
+}
+
+li {
+  padding-bottom: 20px;
 }
 
 .header {
@@ -176,7 +190,7 @@ h1 {
   padding-bottom: 50px;
   
 }
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .who-we-are {
     display: flex;
     flex-direction: column;
@@ -196,8 +210,12 @@ h1 {
   .top {
     margin-top: 40px;
   }
+  .we-are {
+    margin: 30px 12vw;
+    line-height: 24px;
+  }
 }
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
 .who-we-are {
   display: flex;
   flex-direction: row;
@@ -210,6 +228,10 @@ h1 {
 .p-container {
   width: 50%;
   margin: 50px;
+}
+.we-are {
+  margin: 30px 0px 20px 50px;
+  line-height: 24px;
 }
 }
 .group-photo {
@@ -235,9 +257,13 @@ h1 {
     margin: 20px 0;
   } */
 
-.we-are {
-  margin: 50px;
-  line-height: 24px;
+
+
+.we-p {
+  line-height: 40px;
+  font-size: 30px;
+  font-family: 'Enriqueta', serif;
+  color: var(--dark-blue)
 }
 
 .h1-span {
@@ -250,6 +276,7 @@ h1 {
 .mission {
   background-color: var(--blue);
   padding: 15px 0;
+  margin-bottom: 40px;
 }
 
 .no-pad {
@@ -442,12 +469,14 @@ footer{
 
 .card-text {
   margin: 1px;
+  font-size: 18px;
   /* color: white; */
 }
 
 .a-name {
+  margin: 1px;
   margin-top: 10px;
-  font-size: 1.3em;
+  font-size: 1.7em;
 }
 /* ^A-CARD */
 
@@ -460,16 +489,18 @@ footer{
   width: 250px;
   /* display: table-cell; */
   line-height: 100px;
+  font-size: 24px;
+  text-decoration: none;
+  color: white;
   text-align: center;
   margin: 50px auto;
   /* border: 2px solid var(--sand) */
 }
 
-.button p {
-  font-size: 24px;
-  color: white;
-
+a {
+  text-decoration: none;
 }
+
 
 .button:hover {
   margin-top: 55px;
@@ -588,6 +619,7 @@ footer{
 }
 
 .vert-center {
+  background-color: var(--sand);
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -605,7 +637,8 @@ footer{
 .landing-text {
   font-size: 8vw;
   padding-left: 5vw;
-  /* margin: auto; */
+  margin: 0;
+  line-height: 1.5em;
   
   /* text-align: center; */
 

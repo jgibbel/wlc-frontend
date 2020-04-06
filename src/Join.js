@@ -52,7 +52,7 @@ export class Join extends Component {
                 <p className="indent-more p">New members will only be considered through a nomination from a current WLC member and all applications from new members will be considered beginning May 17, 2019.  The application for new members may be found <a href="https://docs.google.com/forms/d/e/1FAIpQLScyHh9CVuldVvjt8LCoPDrrTeelEq0EvZhcF7R6Or4kEDYxbA/viewform">here</a>.  Applicants who are interested in applying, but lacking connectivity to a nominator should send a note expressing their interest along with their: 1) resume or linkedin link and 2) bio (if available) to membership@wlcsocialimpact.com.</p>
                 <p className="indent-more p">Lastly, the WLC has a limited budget to provide scholarships to cover a portion of the membership fee for women who are leading organizations with an annual budget of $1M.  If you are interested in applying for a scholarship please complete this section in the application noting your interest.</p>
             </div>
-            <div className="button"><p>APPLY</p></div>
+            <div className="button">APPLY</div>
             </div>
         );
     }
