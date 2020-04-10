@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65f23e8f11261986de70bb347d0993cc",
+    "revision": "1ed9bf6266774bb2ffac87cdf3da4c8b",
     "url": "/wlc-frontend/index.html"
   },
   {
-    "revision": "6e71f813016916135df5",
-    "url": "/wlc-frontend/static/css/main.8fed4fc3.chunk.css"
+    "revision": "932a42fab38c8107c69e",
+    "url": "/wlc-frontend/static/css/main.6a482210.chunk.css"
   },
   {
-    "revision": "e22787ff7c2782b77b6a",
-    "url": "/wlc-frontend/static/js/2.b714d34c.chunk.js"
+    "revision": "d507cc1797275359f5ac",
+    "url": "/wlc-frontend/static/js/2.7122ce94.chunk.js"
   },
   {
     "revision": "627328b95b668335a3c0f9d5d64174b1",
-    "url": "/wlc-frontend/static/js/2.b714d34c.chunk.js.LICENSE.txt"
+    "url": "/wlc-frontend/static/js/2.7122ce94.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e71f813016916135df5",
-    "url": "/wlc-frontend/static/js/main.9cc43563.chunk.js"
+    "revision": "932a42fab38c8107c69e",
+    "url": "/wlc-frontend/static/js/main.53fa88ad.chunk.js"
   },
   {
     "revision": "8f8ff0cc036355690c68",
