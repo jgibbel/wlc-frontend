@@ -8,7 +8,7 @@ const Testimonial = ({photo, name, title, quote}) => {
             <div className="quote">"</div> */}
             <blockquote><p class="quotation"> 
            "{quote}"</p>
-            <footer>— {name}, {title}</footer>
+            <footer>— {name} | {title}</footer>
             </blockquote> 
             
             

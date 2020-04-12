@@ -11,6 +11,7 @@ import Events from './Events';
 import Landing from './Landing'
 import HeaderWhite from './components/HeaderWhite'
 import HeaderTan from './components/HeaderTan'
+import Programs from "./Programs"
 
 
 import {
@@ -45,6 +46,10 @@ class App extends Component {
         <Route path="/mission">
         <HeaderWhite />
           <Mission />
+        </Route>
+        <Route path="/programs">
+        <HeaderWhite />
+          <Programs />
         </Route>
         <Route exact path="/members">
         <HeaderWhite />

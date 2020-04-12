@@ -53,6 +53,7 @@ displayNavBar = () => {
       <ul className="nav">
         <NavLink className="underline" to="/about"><li className='nav-link menu-link'>ABOUT</li></NavLink>
         <NavLink className="underline" to="/mission"><li className='nav-link menu-link' >WHAT WE OFFER</li></NavLink>
+        <NavLink className="underline" to="/programs"><li className='nav-link menu-link'>PROGRAMS</li></NavLink>
         <NavLink className="underline" to="/members"><li className='nav-link menu-link'>MEMBERS</li></NavLink>
         <NavLink className="underline" to="/join"><li className='nav-link menu-link'>JOIN</li></NavLink>
   
@@ -66,6 +67,7 @@ displayNavBar = () => {
         <NavLink className="underline" to="/about"><li onClick={this.handleClickTop} className='ham-link menu-link'>ABOUT</li></NavLink>
         <NavLink className="underline" to="/mission"><li onClick={this.handleClickTop} className='ham-link menu-link'>WHAT WE OFFER</li></NavLink>
         <NavLink className="underline" to="/members"><li onClick={this.handleClickTop} className='ham-link menu-link'>MEMBERS</li></NavLink>
+        <NavLink className="underline" to="/programs"><li onClick={this.handleClickTop} className='ham-link menu-link'>PROGRAMS</li></NavLink>
         <NavLink className="underline" to="/join"><li onClick={this.handleClickTop} className='ham-link menu-link'>JOIN</li></NavLink>
   
       </ul>

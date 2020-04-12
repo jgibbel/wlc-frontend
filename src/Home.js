@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ACard from './components/ACard.js'
 
-import Testimonial from './components/Testimonial.js'
+
 import GroupPic from "./images/group-pic.JPG";
 import LecturePic from "./images/wlc-lecture-reg.png";
 import './index.css';
@@ -18,8 +18,9 @@ export class Home extends Component {
                     <div className="w-container">
                         <p className="we-are we-p">We are a consortium of talented women in leadership positions across a breadth of  social impact organizations in New York City. </p>
                         <p className="we-are">We are committed to creating opportunities and sharing information to enable more women to live their best lives and do their best work.</p>
-                        <p className="we-are">We provide and receive individual and collective support to enable each other  to serve as powerful, effective leaders in their lives and the social impact sector.</p>
-                        <p className="we-are">We are currently or formerly senior-level leaders of social impact organizations (i.e., C-level, Executive Directors, Presidents, etc.).</p>
+                        <p className="we-are">We provide and receive individual and collective support to enable our members to serve as powerful, effective leaders in their lives and the social impact sector.</p>
+                        <p className="we-are">We seek to provide support to women leading NYC based social enterprises through a membership based community and a <Link className="about-text-link" to="/programs">mentoring program</Link> that’s open to non-members.</p>
+                        <p className="we-are">We are currently or formerly senior-level leaders of NYC based social impact organizations (i.e., C-level, Executive Directors, Presidents).</p>
                     </div>
                     <div className="w-container bottom">
                     <img className="group-photo" src={GroupPic} alt="Group Photo"/>
@@ -28,13 +29,13 @@ export class Home extends Component {
                 
                 <div className="indent mission">
                     <h1 className="white no-pad">Mission</h1>
-                    <p className="indent-more p white">The mission of the WLC is to foster a community of experienced social impact leaders who:</p>
+                    <p className="indent-more p white">The mission of the WLC is to provide the fellowship, resources and community that women Executives, in the non-profit sector, often lack and cannot identify given the extreme time constraints of their roles. The mission of the WLC is to foster community and collaboration between experienced social impact leaders who are committed to:</p>
                     <ul className="indent-more p white">
-                        <li>Seek out opportunities for professional and personal development</li>
-                        <li>Provide and receive coaching</li>
-                        <li>Share best practices, strategy, and information</li>
-                        <li>Expand their connectivity to colleagues in the field</li>
-                        <li>Create a safe collective space for personal and professional growth</li>
+                        <li>Seeking out opportunities for professional and personal development</li>
+                        <li>Providing and receiving coaching</li>
+                        <li>Sharing best practices, strategy, and information</li>
+                        <li>Expanding their connectivity to colleagues in the field</li>
+                        <li>Creating a safe collective space for personal and professional growth</li>
                     </ul>
                     <p className="indent-more p white">The WLC is committed to creating an inclusive community enhanced by diversity along many dimensions, including race, ethnicity, gender identity and national origin.  We hope to increase the representation of those populations that have been historically excluded from leadership. </p>
                 </div>
@@ -50,31 +51,27 @@ export class Home extends Component {
                     
                </div> */}
                 
-                <Testimonial photo="https://source.unsplash.com/150x150/?nature,water"
-                        name="Person"
-                        title="Job"
-                        quote="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac accumsan diam. Etiam mollis elit vitae bibendum varius. Nulla orci odio, feugiat at neque vitae, consequat suscipit risus. Curabitur cursus tempor ante, sit amet consectetur risus. In a venenatis nunc, quis convallis nisl. Sed maximus." 
-                />
+               
                 
                 
                 
                 <div className="indent">
                    <h1 className="no-pad">History</h1>
-                    <p className="indent-more p">The WLC was started in 2013 when Erica Hamilton assembled  a small group of women, largely Executive Directors and a C-level leader, of a variety of NYC based social impact organizations  to meeting informally, over breakfast, to discuss and provide counsel on personal and professional challenges. Over the years, as the group expanded, it evolved into a membership organization with multiple offerings and convenings. It is run by a volunteer collaborative leadership team. </p>
-                    <h1>Advisory Team</h1>
+                    <p className="indent-more p">The WLC was started in 2013 when Erica Hamilton assembled  a small group of women, largely Executive Directors and a C-level leader, of a variety of NYC based social impact organizations  to meeting informally, over breakfast, to discuss and provide counsel on personal and professional challenges. Over the years, as the group expanded, it evolved into a membership organization with multiple offerings and convenings. The WLC is managed by an all-volunteer group of current members, the Advisory Committee, who design and organize sessions and programs to be responsive to the real time needs of our members. </p>
+                    <h1>Advisory Committee</h1>
                 </div>
 
                 <div className="a-team">
-                    <ACard photo="https://source.unsplash.com/200x200/?nature"
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Erica.png"
                             name="Erica Hamilton"
                             title="Faculty Member at NYU & Principal at Arbor Brothers"
                             
                     />
-                    <ACard photo="https://source.unsplash.com/200x200/?nature"
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Lara.png"
                             name="Lara Galinsky"
-                            title="Founder & Social Impact Strategist at the Genuine"
+                            title="Director Impact Innovation, McCourt & Founder, The Genuine"
                     />
-                    <ACard photo="https://source.unsplash.com/200x200/?nature"
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Lisa.png"
                             name="Lisa Holton"
                             title="Principal"
                             organization="Holton Consulting" 
@@ -85,14 +82,14 @@ export class Home extends Component {
                             Corps"
                             
                     />
-                    <ACard photo="https://source.unsplash.com/200x200/?nature"
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Kelley.png"
                             name="Kelley Perkins"
                             title="Executive Director"
                             organization="Actions@EMBF" 
                     />
                 </div>
 
-                <Link to="/join"><div className="button">JOIN</div></Link>
+                {/* <Link to="/join"><div className="button">JOIN</div></Link> */}
 
             </div>
         );
