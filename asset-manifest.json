@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wlc-frontend/static/css/main.6a482210.chunk.css",
-    "main.js": "/wlc-frontend/static/js/main.53fa88ad.chunk.js",
-    "main.js.map": "/wlc-frontend/static/js/main.53fa88ad.chunk.js.map",
+    "main.css": "/wlc-frontend/static/css/main.ce2ebe4b.chunk.css",
+    "main.js": "/wlc-frontend/static/js/main.504614b7.chunk.js",
+    "main.js.map": "/wlc-frontend/static/js/main.504614b7.chunk.js.map",
     "runtime-main.js": "/wlc-frontend/static/js/runtime-main.4e41d65d.js",
     "runtime-main.js.map": "/wlc-frontend/static/js/runtime-main.4e41d65d.js.map",
     "static/js/2.7122ce94.chunk.js": "/wlc-frontend/static/js/2.7122ce94.chunk.js",
     "static/js/2.7122ce94.chunk.js.map": "/wlc-frontend/static/js/2.7122ce94.chunk.js.map",
     "index.html": "/wlc-frontend/index.html",
-    "precache-manifest.a053d8855d81171c01f5f186f381dfd7.js": "/wlc-frontend/precache-manifest.a053d8855d81171c01f5f186f381dfd7.js",
+    "precache-manifest.ec237e928f98a3d350b717b849f8a8c0.js": "/wlc-frontend/precache-manifest.ec237e928f98a3d350b717b849f8a8c0.js",
     "service-worker.js": "/wlc-frontend/service-worker.js",
-    "static/css/main.6a482210.chunk.css.map": "/wlc-frontend/static/css/main.6a482210.chunk.css.map",
+    "static/css/main.ce2ebe4b.chunk.css.map": "/wlc-frontend/static/css/main.ce2ebe4b.chunk.css.map",
     "static/js/2.7122ce94.chunk.js.LICENSE.txt": "/wlc-frontend/static/js/2.7122ce94.chunk.js.LICENSE.txt",
     "static/media/group-pic.JPG": "/wlc-frontend/static/media/group-pic.10363df2.JPG",
     "static/media/wlc-blue.png": "/wlc-frontend/static/media/wlc-blue.263e35ad.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.4e41d65d.js",
     "static/js/2.7122ce94.chunk.js",
-    "static/css/main.6a482210.chunk.css",
-    "static/js/main.53fa88ad.chunk.js"
+    "static/css/main.ce2ebe4b.chunk.css",
+    "static/js/main.504614b7.chunk.js"
   ]
 }
