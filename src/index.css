@@ -189,12 +189,7 @@ li {
 
 
 
-.we-p {
-  line-height: 40px;
-  font-size: 30px;
-  font-family: 'Enriqueta', serif;
-  color: var(--blue)
-}
+
 
 
 .page-container {
@@ -203,6 +198,17 @@ li {
   
 }
 @media (max-width: 1000px) {
+  .we-p {
+    line-height: 5vw;
+    font-size: 4vw;
+    font-family: 'Enriqueta', serif;
+    color: var(--blue);
+
+  
+    margin: 30px 8vw 0;
+   
+  
+  }
   .who-we-are {
     display: flex;
     flex-direction: column;
@@ -223,17 +229,36 @@ li {
     margin-top: 40px;
   }
   .we-are {
-    margin: 30px 12vw;
+    margin: 30px 8vw;
     line-height: 24px;
   }
 }
 @media (min-width: 1000px) {
+  .we-p {
+    line-height: 5vw;
+    font-size: 4vw;
+    font-family: 'Enriqueta', serif;
+    color: var(--blue);
+    padding-right: 5vw;
+  
+    margin: 30px 0px 20px 50px;
+    /*line-height: 24px;
+  
+    margin: 30px 12vw;
+    line-height: 24px; */
+  
+  }
+
 .who-we-are {
   display: flex;
   flex-direction: row;
   margin: 40px 0;
 }
-.w-container {
+.w1-container {
+  width: 50%;
+  margin: auto;
+}
+.w2-container {
   width: 50%;
   margin: auto;
 }
@@ -242,16 +267,19 @@ li {
   margin: 50px;
 }
 .we-are {
-  margin: 30px 0px 20px 50px;
+  margin: 10px 0px 5px 50px;
   line-height: 24px;
 }
 }
+
+
 .group-photo {
   display: block;
   width: 80%;
   margin: auto;
   border: 5px solid var(--sand);
   }
+
 
   .lecture-photo {
     width: 80%;
@@ -306,6 +334,10 @@ li {
 
 .indent-more {
   margin-left: 2vw;
+}
+
+.indent-double {
+  margin-left: 4vw;
 }
 
 
@@ -366,7 +398,7 @@ li {
 @media (max-width: 900px) {
 .test-container {
   padding: 30px 0;
-  /* background-color: var(--blue); */
+  background-color: var(--blue);
 }
 /* .quote-text {
   font-size: 3vw;
@@ -374,14 +406,14 @@ li {
 footer{
   margin:0;
   text-align: right;
-  font-size: 3vw;
+  font-size: 2.25vw;
   font-style: italic;
-  color: var(--blue);
+  color: white;
 }
 
 .quotation{
   font-size: 3vw;
-  color: var(--blue);
+  color: white;
   margin: 0 auto;
   quotes: "\201C""\201D""\2018""\2019";
   padding: 10px 20px;
@@ -400,7 +432,7 @@ footer{
   footer{
     margin:0;
     text-align: right;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
     color: var(--blue);
   }
@@ -408,10 +440,10 @@ footer{
   .quotation{
     font-size: 22px;
     color: var(--blue);
-    width: 650px;
+    width: 75vw;
     margin: 0 auto;
     quotes: "\201C""\201D""\2018""\2019";
-    padding: 10px 20px;
+    padding: 10px 20px 30px;
     line-height: 1.4;
   }
   }
@@ -756,4 +788,32 @@ font-family: 'Ultra', serif;
 .tan-foot {
   padding: 20px;
   background-color: var(--sand);
+}
+
+@media (max-width: 600px) {
+  .tan-text {
+    font-size: 20px;
+    width: 80vw;
+    margin: auto;
+    font-weight: 900;
+  }
+
+}
+@media (min-width: 600px) {
+.tan-text {
+  font-size: 36px;
+  width: 80vw;
+  margin: auto;
+  font-weight: 900;
+}
+}
+
+
+.caption {
+  width: 80vw;
+  margin: 10px auto;
+  text-align: center;
+  color: var(--blue);
+  font-size: 16px;
+
 }

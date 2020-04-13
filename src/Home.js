@@ -14,22 +14,23 @@ export class Home extends Component {
     render() {
         return (
             <div className="page-container">
+                <p className=" we-p">We are a consortium of talented women in leadership positions across a breadth of  social impact organizations in New York City. </p>
+                        
                 <div className="who-we-are">
-                    <div className="w-container">
-                        <p className="we-are we-p">We are a consortium of talented women in leadership positions across a breadth of  social impact organizations in New York City. </p>
+                    <div className="w1-container">
                         <p className="we-are">We are committed to creating opportunities and sharing information to enable more women to live their best lives and do their best work.</p>
                         <p className="we-are">We provide and receive individual and collective support to enable our members to serve as powerful, effective leaders in their lives and the social impact sector.</p>
                         <p className="we-are">We seek to provide support to women leading NYC based social enterprises through a membership based community and a <Link className="about-text-link" to="/programs">mentoring program</Link> that’s open to non-members.</p>
                         <p className="we-are">We are currently or formerly senior-level leaders of NYC based social impact organizations (i.e., C-level, Executive Directors, Presidents).</p>
                     </div>
-                    <div className="w-container bottom">
+                    <div className="w2-container bottom">
                     <img className="group-photo" src={GroupPic} alt="Group Photo"/>
                     </div>
                </div>
                 
                 <div className="indent mission">
                     <h1 className="white no-pad">Mission</h1>
-                    <p className="indent-more p white">The mission of the WLC is to provide the fellowship, resources and community that women Executives, in the non-profit sector, often lack and cannot identify given the extreme time constraints of their roles. The mission of the WLC is to foster community and collaboration between experienced social impact leaders who are committed to:</p>
+                    <p className="indent-more p white">The mission of the WLC is to provide the fellowship, resources, and community that women Executives, in the non-profit sector, often lack and cannot identify given the extreme time constraints of their roles. The mission of the WLC is to foster community and collaboration between experienced social impact leaders who are committed to:</p>
                     <ul className="indent-more p white">
                         <li>Seeking out opportunities for professional and personal development</li>
                         <li>Providing and receiving coaching</li>

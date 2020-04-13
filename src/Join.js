@@ -8,13 +8,9 @@ export class Join extends Component {
         return (
             
             <div className="page-container">
-                 <Testimonial photo="https://source.unsplash.com/150x150/?nature,water"
-                        name="Danielle Guindo"
-                        title="Executive Director, Read Alliance"
-                        quote="I want to thank all of you again for the tremendous support we have provided one another, especially during this time of COVID-19. Just think about the number of people we are helping exponentially through our mutual aid, because the strength and wisdom of the group reaches our staff (and families!) too." 
-                />
+                
                 <div className="tan-foot">
-                <p style={{textAlign: 'center'}}>The WLC Application for Membership will open on April 27, 2020</p>
+                <p className="tan-text" style={{textAlign: 'center'}}>The WLC Application for Membership will open on April 27, 2020</p>
             </div>
                 <div className="indent">
                 <h1>Membership</h1>
@@ -30,6 +26,14 @@ export class Join extends Component {
                 </ul>
                 </div>
                 <img className="lecture-photo" src={LecturePic} alt="Lecture Photo"/>
+                <p className="caption">2019 WLC Retreat showing members and Guest Speaker-Toni Harris Quinnerly, Consultant & Senior Expert at Egon Zehnder's Leadership Advisory Practice</p>
+
+                <Testimonial photo="https://source.unsplash.com/150x150/?nature,water"
+                        name="Danielle Guindo"
+                        title="Executive Director, Read Alliance"
+                        quote="I want to thank all of you again for the tremendous support we have provided one another, especially during this time of COVID-19. Just think about the number of people we are helping exponentially through our mutual aid, because the strength and wisdom of the group reaches our staff (and families!) too." 
+                />
+                
                 <div className="indent">
                 <h1>WLC Members Will Be Expected To:</h1>
                 <ul className="indent-more p">
@@ -64,9 +68,8 @@ export class Join extends Component {
                     <li>Comfortable and empowered to share their organization’s best practices, learnings and organizational documents</li>
                 </ul>
 
-                <p className="indent-more p">New members will only be considered through a nomination from a current WLC member and all applications from new members will be considered beginning April 20, 2020. The application for new members may be found <a href="https://docs.google.com/forms/d/e/1FAIpQLScyHh9CVuldVvjt8LCoPDrrTeelEq0EvZhcF7R6Or4kEDYxbA/viewform">here</a>. Applicants who are interested in applying, but lacking connectivity to a nominator should send a note expressing their interest along with their: 1) linkedin url and 2) bio (if available) to membership@wlcsocialimpact.com.
-                </p>
-                <p className="indent-more p">Lastly, the WLC has a limited budget to provide scholarships to cover a portion of the membership fee for women who are leading organizations with an annual budget less than or equal to $1.0M. If you are interested in applying for a scholarship please complete the section in the application noting your interest.</p>
+                <p className="indent-more p">The WLC Membership typically runs from mid September through early to mid June.</p>
+                <p className="indent-more p">Lastly, the WLC has a limited budget to provide scholarships to cover a portion of the membership fee for women and transfeminine people who are leading organizations with an annual budget less than or equal to $1.0M. If you are interested in applying for a scholarship please complete the section in the application noting your interest.</p>
             </div>
             {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLScyHh9CVuldVvjt8LCoPDrrTeelEq0EvZhcF7R6Or4kEDYxbA/viewform"><div className="button">APPLY</div></a>
              */}

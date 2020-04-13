@@ -33,7 +33,7 @@ export class Members extends Component {
                 ["Katie Orenstein", "The OpEd Project", "CEO", "https://wlc-member-photos.s3.amazonaws.com/Katie+Orenstein.png"],
                 ["Kelley Perkins", "Actions@EBMF", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Kelley+Perkins.png"],
                 ["Kristen Baldwin", "Read Ahead", "Executive Director", "none"],
-                ["Lara Galinsky", "The Genuine", "Founder & CEO", "https://wlc-member-photos.s3.amazonaws.com/Lara+Galinsky.png"],
+                ["Lara Galinsky", "Director Impact Innovation, McCourt", "Founder, The Genuine", "https://wlc-member-photos.s3.amazonaws.com/Lara+Galinsky.png"],
                 ["Lisa Holton",	"Holton Consulting", "Principal", "https://wlc-member-photos.s3.amazonaws.com/Lisa+Holton.png"],
                 ["Maria Lizardo", "NMIC", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Maria+Lizardo.png"],
                 ["Melissa Aase", "University Settlement", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Melissa+Aase.png"],
