@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wlc-frontend/static/css/main.de6b5ccd.chunk.css",
-    "main.js": "/wlc-frontend/static/js/main.e3117b14.chunk.js",
-    "main.js.map": "/wlc-frontend/static/js/main.e3117b14.chunk.js.map",
+    "main.css": "/wlc-frontend/static/css/main.f831f9e1.chunk.css",
+    "main.js": "/wlc-frontend/static/js/main.70e3d743.chunk.js",
+    "main.js.map": "/wlc-frontend/static/js/main.70e3d743.chunk.js.map",
     "runtime-main.js": "/wlc-frontend/static/js/runtime-main.4e41d65d.js",
     "runtime-main.js.map": "/wlc-frontend/static/js/runtime-main.4e41d65d.js.map",
     "static/js/2.7122ce94.chunk.js": "/wlc-frontend/static/js/2.7122ce94.chunk.js",
     "static/js/2.7122ce94.chunk.js.map": "/wlc-frontend/static/js/2.7122ce94.chunk.js.map",
     "index.html": "/wlc-frontend/index.html",
-    "precache-manifest.198204285f4d15ebadcce601056f5386.js": "/wlc-frontend/precache-manifest.198204285f4d15ebadcce601056f5386.js",
+    "precache-manifest.ac66670c0e0f1b023d891bd60c979494.js": "/wlc-frontend/precache-manifest.ac66670c0e0f1b023d891bd60c979494.js",
     "service-worker.js": "/wlc-frontend/service-worker.js",
-    "static/css/main.de6b5ccd.chunk.css.map": "/wlc-frontend/static/css/main.de6b5ccd.chunk.css.map",
+    "static/css/main.f831f9e1.chunk.css.map": "/wlc-frontend/static/css/main.f831f9e1.chunk.css.map",
     "static/js/2.7122ce94.chunk.js.LICENSE.txt": "/wlc-frontend/static/js/2.7122ce94.chunk.js.LICENSE.txt",
     "static/media/group-pic.JPG": "/wlc-frontend/static/media/group-pic.10363df2.JPG",
     "static/media/wlc-blue.png": "/wlc-frontend/static/media/wlc-blue.263e35ad.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.4e41d65d.js",
     "static/js/2.7122ce94.chunk.js",
-    "static/css/main.de6b5ccd.chunk.css",
-    "static/js/main.e3117b14.chunk.js"
+    "static/css/main.f831f9e1.chunk.css",
+    "static/js/main.70e3d743.chunk.js"
   ]
 }
