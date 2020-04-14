@@ -18,7 +18,7 @@ export class Join extends Component {
                 <h1>WLC Members Will Receive:</h1>
                 <ul className="indent-more p">
                     <li>Access to a safe, accessible and inclusive community of women leaders who can provide and request advice and support through: online meet-ups, in-person gatherings and an email community</li>
-                    <li>Access to a regularly updated resource list that croudsources and researches for information on: funding, best practices, training opportunities, leadership development opportunities, etc.</li>
+                    <li>Access to a regularly updated resource list that crowdsources and researches for information on: funding, best practices, training opportunities, leadership development opportunities, etc.</li>
                     <li>Access to templates and policies used by other organizations</li>
                     <li>Invitations to a series of four scheduled gatherings held online and in-person throughout the year</li>
                     <li>The opportunity to form or participate in smaller topic based meeting groups (Minerva Salons)</li>
@@ -26,25 +26,20 @@ export class Join extends Component {
                 </ul>
                 </div>
                 <img className="lecture-photo" src={LecturePic} alt="Lecture Photo"/>
-                <p className="caption">2019 WLC Retreat showing members and Guest Speaker-Toni Harris Quinnerly, Consultant & Senior Expert at Egon Zehnder's Leadership Advisory Practice</p>
+                <p className="caption">2019 WLC Retreat featuring Guest Speaker-Toni Harris Quinnerly, Consultant & Senior Expert at Egon Zehnder's Leadership Advisory Practice</p>
 
-                <Testimonial photo="https://source.unsplash.com/150x150/?nature,water"
-                        name="Danielle Guindo"
-                        title="Executive Director, Read Alliance"
-                        quote="I want to thank all of you again for the tremendous support we have provided one another, especially during this time of COVID-19. Just think about the number of people we are helping exponentially through our mutual aid, because the strength and wisdom of the group reaches our staff (and families!) too." 
-                />
                 
                 <div className="indent">
                 <h1>WLC Members Will Be Expected To:</h1>
                 <ul className="indent-more p">
                     <li>Uphold confidentiality and safety by ensuring what is said online and in in-person gatherings stays there </li>
-                    <li>Attend and fully participate in three in-person gatherings (typically 90 mins; 9AM or 5PM start time; held in a Manhattan location) which provide an opportunity for members to:</li>
+                    <li>Attend and fully participate in three in-person gatherings (typically 90 mins; 9AM or 5PM start time; held online or in a Manhattan location) which provide an opportunity for members to:</li>
                     <li style={{listStyle: 'none'}}> 
                         <ul>
                             <li>provide and receive support from peers</li>
                             <li>learn and share information and resources </li>
                             <li>build relationships</li>
-                            <li>hear guest speakers who are subject matter expertise in areas/topics members are interested in</li>
+                            <li>hear guest speakers who are subject matter experts in areas/topics members are interested in</li>
                         </ul>
                     </li>
                     <li>Contribute meaningfully to the WLC email community by posting and responding to queries to share information and resources</li>
@@ -63,7 +58,7 @@ export class Join extends Component {
                     <li>Currently an ED/CEO/President of a social impact organization</li>
                     <li>Based in NYC and leads a social impact organization</li>
                     <li>Eager to both contribute to and learn from a community of women peers working in the social impact sector </li>
-                    <li>Have worked as a senior level leader (i.e. C-level, Executive Director, Vice President, etc.) either at their current organization or including prior experience for at least 12 months as of July 2018</li>
+                    <li>Have worked as a senior level leader (i.e. C-level, Executive Director, Vice President, etc.) either at their current organization or including prior experience for at least 12 months</li>
                     <li>Able to attend at least four WLC online or in-person gatherings annually</li>
                     <li>Comfortable and empowered to share their organization’s best practices, learnings and organizational documents</li>
                 </ul>

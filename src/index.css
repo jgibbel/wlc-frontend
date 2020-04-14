@@ -278,13 +278,13 @@ li {
 .w2-container {
   width: 50%;
   margin: auto;
-}
+} 
 .p-container {
   width: 50%;
   margin: 50px;
 }
 .we-are {
-  margin: 10px 0px 5px 50px;
+  margin: 10px 0px 20px 50px;
   line-height: 24px;
 }
 }
@@ -442,7 +442,8 @@ footer{
 @media (min-width: 850px) {
   .test-container {
     padding: 30px 6vw;
-    background-color: white;
+    background-color: var(--blue);
+    border-bottom: 10px solid var(--sand);
   }
   /* .quote-text {
     font-size: 27px;
@@ -452,12 +453,12 @@ footer{
     text-align: right;
     font-size: 18px;
     font-style: italic;
-    color: var(--blue);
+    color: white;
   }
 
   .quotation{
     font-size: 22px;
-    color: var(--blue);
+    color: white;
     width: 75vw;
     margin: 0 auto;
     quotes: "\201C""\201D""\2018""\2019";
