@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, 'Raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -197,7 +197,21 @@ li {
   padding-bottom: 50px;
   
 }
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
+  .we-p {
+    line-height: 40px;
+    font-size: 32px;
+    font-family: 'Enriqueta', serif;
+    color: var(--blue);
+
+  
+    margin: 30px 8vw 0;
+   
+  
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1000px) {
   .we-p {
     line-height: 5vw;
     font-size: 4vw;
@@ -209,6 +223,9 @@ li {
    
   
   }
+}
+@media (max-width: 1000px) {
+
   .who-we-are {
     display: flex;
     flex-direction: column;
@@ -311,7 +328,7 @@ li {
 
 .mission {
   background-color: var(--blue);
-  padding: 15px 0;
+  padding: 30px 0 15px;
   margin-bottom: 40px;
 }
 
@@ -399,6 +416,7 @@ li {
 .test-container {
   padding: 30px 0;
   background-color: var(--blue);
+  border-bottom: 10px solid var(--sand);
 }
 /* .quote-text {
   font-size: 3vw;
@@ -638,7 +656,7 @@ a {
   }
   }
 
-  @media (min-width: 600px) and (max-width: 900px) {
+  @media (min-width: 650px) and (max-width: 900px) {
     .m-card-image {
       display: block;
       width: 33.3vw;
@@ -648,7 +666,7 @@ a {
     }
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 650px) {
       .m-card-image {
         display: block;
         width: 50vw;
@@ -811,7 +829,8 @@ font-family: 'Ultra', serif;
 
 .caption {
   width: 80vw;
-  margin: 10px auto;
+  max-width: 750px;
+  margin: 20px auto;
   text-align: center;
   color: var(--blue);
   font-size: 16px;

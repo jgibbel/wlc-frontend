@@ -77,7 +77,7 @@ export class Home extends Component {
                             title="Principal"
                             organization="Holton Consulting" 
                     />
-                    <ACard photo="https://source.unsplash.com/200x200/?nature"
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Jenn.png"
                             name="Jennifer Magida"
                             title="CEO at the New York Peace Institute & Founder & ED of Youth Advocacy
                             Corps"
