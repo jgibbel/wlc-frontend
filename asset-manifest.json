@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wlc-frontend/static/css/main.7fd75042.chunk.css",
-    "main.js": "/wlc-frontend/static/js/main.1119fa7b.chunk.js",
-    "main.js.map": "/wlc-frontend/static/js/main.1119fa7b.chunk.js.map",
+    "main.js": "/wlc-frontend/static/js/main.bbf8039e.chunk.js",
+    "main.js.map": "/wlc-frontend/static/js/main.bbf8039e.chunk.js.map",
     "runtime-main.js": "/wlc-frontend/static/js/runtime-main.4e41d65d.js",
     "runtime-main.js.map": "/wlc-frontend/static/js/runtime-main.4e41d65d.js.map",
     "static/js/2.7122ce94.chunk.js": "/wlc-frontend/static/js/2.7122ce94.chunk.js",
     "static/js/2.7122ce94.chunk.js.map": "/wlc-frontend/static/js/2.7122ce94.chunk.js.map",
     "index.html": "/wlc-frontend/index.html",
-    "precache-manifest.955975b7d6dac51e25bd1324820d4f67.js": "/wlc-frontend/precache-manifest.955975b7d6dac51e25bd1324820d4f67.js",
+    "precache-manifest.6537737d0b6c59020e93cb1e15354b6e.js": "/wlc-frontend/precache-manifest.6537737d0b6c59020e93cb1e15354b6e.js",
     "service-worker.js": "/wlc-frontend/service-worker.js",
     "static/css/main.7fd75042.chunk.css.map": "/wlc-frontend/static/css/main.7fd75042.chunk.css.map",
     "static/js/2.7122ce94.chunk.js.LICENSE.txt": "/wlc-frontend/static/js/2.7122ce94.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.4e41d65d.js",
     "static/js/2.7122ce94.chunk.js",
     "static/css/main.7fd75042.chunk.css",
-    "static/js/main.1119fa7b.chunk.js"
+    "static/js/main.bbf8039e.chunk.js"
   ]
 }
