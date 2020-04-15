@@ -18,9 +18,9 @@ export class Join extends Component {
                 <h1>WLC Members Will Receive:</h1>
                 <ul className="indent-more p">
                     <li>Access to a safe, accessible and inclusive community of women leaders who can provide and request advice and support through: online meet-ups, in-person gatherings and an email community</li>
-                    <li>Access to a regularly updated resource list that crowdsources and researches for information on: funding, best practices, training opportunities, leadership development opportunities, etc.</li>
+                    <li>Access to a regularly updated crowdsourced resource list with information on: funding, best practices, training opportunities, leadership development opportunities, etc.</li>
                     <li>Access to templates and policies used by other organizations</li>
-                    <li>Invitations to a series of four scheduled gatherings held online and in-person throughout the year</li>
+                    <li>Invitations to a series of four scheduled sessions held online and in-person throughout the year</li>
                     <li>The opportunity to form or participate in smaller topic based meeting groups (Minerva Salons)</li>
                     <li>An invitation to attend a restorative gathering to relax, reflect and connect with other WLC members typically offered in June (WLC Retreat)</li>
                 </ul>
@@ -33,7 +33,7 @@ export class Join extends Component {
                 <h1>WLC Members Will Be Expected To:</h1>
                 <ul className="indent-more p">
                     <li>Uphold confidentiality and safety by ensuring what is said online and in in-person gatherings stays there </li>
-                    <li>Attend and fully participate in three in-person gatherings (typically 90 mins; 9AM or 5PM start time; held online or in a Manhattan location) which provide an opportunity for members to:</li>
+                    <li>Attend and fully participate in three sessions (typically 90 mins; 9AM or 5PM start time; held online or in a Manhattan location) which provide an opportunity for members to:</li>
                     <li style={{listStyle: 'none'}}> 
                         <ul>
                             <li>provide and receive support from peers</li>
@@ -46,8 +46,8 @@ export class Join extends Component {
                     <li>Pay an annual membership fee* to support WLC’s regular operations, including space rental for gatherings, administrative support for day-to-day operations, food, beverages, etc.  Membership fees are noted below:</li>
                     <li style={{listStyle: 'none'}}> 
                         <ul>
-                            <li>$550 for individuals leading social impact organizations with a budget of greater than $1.0M </li>
-                            <li>$275 for individuals leading social impact organizations with a budget of less than or equal to $1.0M</li>
+                            <li>$550 for individuals leading social impact organizations with a budget of greater than $1.5M </li>
+                            <li>$275 for individuals leading social impact organizations with a budget of less than or equal to $1.5M</li>
                             <li>$225 for individuals who are no longer leading social impact organizations</li>
                         </ul>
                     </li>

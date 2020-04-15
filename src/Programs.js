@@ -11,7 +11,7 @@ export class Programs extends Component {
                         quote="I want to thank all of you again for the tremendous support we have provided one another, especially during this time of COVID-19. Just think about the number of people we are helping exponentially through our mutual aid, because the strength and wisdom of the group reaches our staff (and families!) too." 
                 />
                 <div className="indent">
-                <h1> WLC Mentoring Program</h1>
+                <h1>WLC Mentoring Program in Response to COVID-19</h1>
                 <p className="indent-more p">
                 We are thrilled to announce a new initiative we have designed to help other women EDs/CEOs/Presidents of NYC based social enterprises navigate “all the stuff” related to COVID-19.</p>
                 <p className="indent-more p">Our members have shared gratitude for this group, especially during this time of COVID-19, in so many ways. At the same time, we have all received requests to open up the WLC doors to more leaders who need help right now. We believe we have designed something that answers all these questions. </p>
