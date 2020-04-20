@@ -58,7 +58,7 @@ export class Home extends Component {
                 
                 <div className="indent">
                    <h1 className="no-pad">History</h1>
-                    <p className="indent-more p">The WLC was started in 2013 when Erica Hamilton assembled  a small group of women, largely Executive Directors and a C-level leader, of a variety of NYC based social impact organizations  to meeting informally, over breakfast, to discuss and provide counsel on personal and professional challenges. Over the years, as the group expanded, it evolved into a membership organization with multiple offerings and convenings. The WLC is managed by an all-volunteer group of current members, the Advisory Committee, who design and organize sessions and programs to be responsive to the real time needs of our members. </p>
+                    <p className="indent-more p">The WLC was started in 2013 when Erica Hamilton assembled  a small group of women, largely Executive Directors and a C-level leader, of a variety of NYC based social impact organizations  to meet informally, over breakfast, to discuss and provide counsel on personal and professional challenges. Over the years, as the group expanded, it evolved into a membership organization with multiple offerings and convenings. The WLC is managed by an all-volunteer group of current members, the Advisory Committee, who design and organize sessions and programs to be responsive to the real time needs of our members. </p>
                     <h1>Advisory Committee</h1>
                 </div>
 
@@ -66,11 +66,13 @@ export class Home extends Component {
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Erica.png"
                             name="Erica Hamilton"
                             title="Faculty Member at NYU & Principal at Arbor Brothers"
+                            organization="Founder, Women's Leadership Council"
                             
                     />
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Lara.png"
                             name="Lara Galinsky"
-                            title="Director Impact Innovation, McCourt & Founder, The Genuine"
+                            title="Director Impact Innovation, McCourt"
+                            organization="Founder, The Genuine"
                     />
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Lisa.png"
                             name="Lisa Holton"
@@ -79,7 +81,8 @@ export class Home extends Component {
                     />
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Jenn.png"
                             name="Jennifer Magida"
-                            title="CEO at the New York Peace Institute & Founder & ED of Youth Advocacy
+                            title="CEO at the New York Peace Institute"
+                            organization="Founder & ED of Youth Advocacy
                             Corps"
                             
                     />
@@ -90,7 +93,7 @@ export class Home extends Component {
                     />
                 </div>
 
-                {/* <Link to="/join"><div className="button">JOIN</div></Link> */}
+                <Link to="/join"><div className="button">JOIN</div></Link>
 
             </div>
         );

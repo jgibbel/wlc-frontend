@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderTan from './components/HeaderTan'
+import HeaderWhite from './components/HeaderWhite'
 
 import image from "./images/wlc-meeting-standard.png";
 
@@ -7,7 +7,7 @@ const Landing = () => {
     return (
         // <div className="landing-container">
             <div className="vert-center">
-            <HeaderTan />
+            <HeaderWhite />
             <div className="l-t-c">
             <p className="landing-text">Strong women build each other up.</p>
             </div>

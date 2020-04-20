@@ -70,7 +70,7 @@ li {
   flex-direction: row;
   justify-content: space-between;
   /* margin-right: 15px; */
-  background-color: var(--sand);
+  background-color: white;
 }
 
 .nav {
@@ -622,6 +622,7 @@ a {
 .member-heading {
   text-align: center;
   margin-right: 0;
+  padding-bottom: 20px;
 }
 
 .m-container {
@@ -706,9 +707,22 @@ a {
   
 }
 
+@media (min-width: 450px) {
 .m-name {
   /* padding-top: 20px; */
   font-size: 1.8em
+}
+
+}
+
+@media (max-width: 450px) {
+  .m-name {
+    /* padding-top: 20px; */
+    font-size: 6vw
+  }
+  .m-other {
+    font-size: 4vw
+  }
 }
 
 .m-textbox {
@@ -719,12 +733,12 @@ a {
 
 
 .landing-container {
-  background-color: var(--sand);
+  background-color: white;
   /* height: 100vh; */
 }
 
-.vert-center {
-  background-color: var(--sand);
+ .vert-center {
+ background-color: white;
   display: flex;
   flex-direction: column;
   height: 100vh;

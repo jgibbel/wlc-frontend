@@ -10,7 +10,7 @@ export class Join extends Component {
             <div className="page-container">
                 
                 <div className="tan-foot">
-                <p className="tan-text" style={{textAlign: 'center'}}>The WLC Application for Membership will open on April 27, 2020</p>
+                <p className="tan-text" style={{textAlign: 'center'}}>The WLC Application Will be Open Until May 8th</p>
             </div>
                 <div className="indent">
                 <h1>Membership</h1>
@@ -33,7 +33,7 @@ export class Join extends Component {
                 <h1>WLC Members Will Be Expected To:</h1>
                 <ul className="indent-more p">
                     <li>Uphold confidentiality and safety by ensuring what is said online and in in-person gatherings stays there </li>
-                    <li>Attend and fully participate in three sessions (typically 90 mins; 9AM or 5PM start time; held online or in a Manhattan location) which provide an opportunity for members to:</li>
+                    <li>Attend and fully participate in four sessions (typically 90 mins; 9AM or 5PM start time; held online or in a Manhattan location) which provide an opportunity for members to:</li>
                     <li style={{listStyle: 'none'}}> 
                         <ul>
                             <li>provide and receive support from peers</li>
@@ -66,8 +66,8 @@ export class Join extends Component {
                 <p className="indent-more p">The WLC Membership typically runs from mid September through early to mid June.</p>
                 <p className="indent-more p">Lastly, the WLC has a limited budget to provide scholarships to cover a portion of the membership fee for women and transfeminine people who are leading organizations with an annual budget less than or equal to $1.0M. If you are interested in applying for a scholarship please complete the section in the application noting your interest.</p>
             </div>
-            {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLScyHh9CVuldVvjt8LCoPDrrTeelEq0EvZhcF7R6Or4kEDYxbA/viewform"><div className="button">APPLY</div></a>
-             */}
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAfr5h7HX9tTGePIW4Xy2kucOlROF8ganJLYKafELOnU6rbA/viewform"><div className="button">APPLY</div></a>
+            
             
 
             </div>

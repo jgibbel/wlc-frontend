@@ -7,8 +7,8 @@ const MCard = ({photo, name, title, organization, bio}) => {
             {(photo === "none") ? <div className="m-card-image blue">
                 <div className="m-textbox">
                 <p className="m-text m-name">{name}</p>
-                <p className="m-text">{title}</p>
-                <p className="m-text">{organization}</p>
+                <p className="m-text m-other">{title}</p>
+                <p className="m-text m-other">{organization}</p>
                 </div>
             </div>
             
@@ -18,8 +18,8 @@ const MCard = ({photo, name, title, organization, bio}) => {
             <div className="m-overlay">
                 <div className="m-textbox">
                 <p className="m-text m-name">{name}</p>
-                <p className="m-text">{title}</p>
-                <p className="m-text">{organization}</p>
+                <p className="m-text m-other">{title}</p>
+                <p className="m-text m-other">{organization}</p>
                 </div>
             </div>
             

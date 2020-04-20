@@ -37,7 +37,7 @@ export class Mission extends Component {
                 </ul>
                
                 <h1 className="indent">Annual WLC Retreat</h1>
-                <p className="indent indent-more p">Invitation to attend the Annual WLC Retreat which is a 1-2 day event designed to aid executive women find space in a day to connect with a community of peers to pursue the inspiration, information, and resources they are seeking to help them thrive in their personal and professional lives. The WLC Retreat agenda is designed differently each year with the shape of the Retreat defined by the real-time interests, challenges and needs WLC members have indicated they are facing. The WLC Retreat provides attendees with facilitated sessions, expert speakers and small group breakout sessions and the agenda is designed in collaboration with registered attendees.</p>
+                <p className="indent indent-more p">Invitation to attend the Annual WLC Retreat which is a 1-2 day event designed to aid executive women find the space they need to connect with a community of peers to pursue the inspiration, information, and resources they are seeking to help them thrive in their personal and professional lives. The WLC Retreat agenda is designed differently each year with the shape of the Retreat defined by the real-time interests, challenges and needs of attendees. The WLC Retreat provides attendees with facilitated sessions, expert speakers and small group breakout sessions and the agenda is designed in collaboration with registered attendees.</p>
             </div>
             
         );
