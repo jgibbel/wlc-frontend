@@ -63,7 +63,7 @@ export class Join extends Component {
                 </ul>
 
                 <p className="indent-more p">The WLC Membership typically runs from mid September through early to mid June.</p>
-                <p className="indent-more p">Lastly, the WLC has a limited budget to provide scholarships to cover a portion of the membership fee for women and transfeminine people who are leading organizations with an annual budget less than or equal to $1.5M. If you are interested in applying for a scholarship please complete the section in the application noting your interest.</p>
+                <p className="indent-more p">Lastly, the WLC has a limited budget to provide scholarships to cover a portion of the membership fee for women and trans people who are leading organizations with an annual budget less than or equal to $1.5M. If you are interested in applying for a scholarship please complete the section in the application noting your interest.</p>
             </div>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAfr5h7HX9tTGePIW4Xy2kucOlROF8ganJLYKafELOnU6rbA/viewform"><div className="button">APPLY</div></a>
             
