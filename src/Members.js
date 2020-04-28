@@ -23,7 +23,7 @@ export class Members extends Component {
                 ["Jacki	Kelly",	"Friends of the Children New York", "Development Director", "https://wlc-member-photos.s3.amazonaws.com/Jacki+Kelly.png"],
                 ["Jenni	Wolfson", "Chicken & Egg Pictures", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Jenni+Wolfson.png"],
                 ["Jennifer Magida", "New York Peace Institute",	"CEO", "https://wlc-member-photos.s3.amazonaws.com/Jenn+Magida.png"],
-                ["Jessica Greer Morris", "JGM Consulting", "Consultant", "https://wlc-member-photos.s3.amazonaws.com/Jessica+Greer+Morris.png"],
+                ["Jessica Greer Morris", "JGM Consulting", "Principal", "https://wlc-member-photos.s3.amazonaws.com/Jessica+Greer+Morris.png"],
                 ["Jessica Santana", "America On Tech", "CEO", "https://wlc-member-photos.s3.amazonaws.com/Jessica+Santana.png"],
                 ["Jill Roche Gomez", "Hunts Point Alliance for Children", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Jill+Roche+Gomez.png"],
                 ["Jinan O'Connor", "Donors Choose", "VP, Advocacy and Public Partnerships", "https://wlc-member-photos.s3.amazonaws.com/Jinan+OConnorpng.png"],
