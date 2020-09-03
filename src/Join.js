@@ -9,9 +9,9 @@ export class Join extends Component {
             
             <div className="page-container">
                 
-                <div className="tan-foot">
+                {/* <div className="tan-foot">
                 <p className="tan-text" style={{textAlign: 'center'}}>The WLC Application Will be Open Until May 8th</p>
-            </div>
+            </div> */}
                 <div className="indent">
                 <h1>Membership</h1>
                 <p className="indent-more p">Information on the ideal member profile, member expectations, member benefits and the process to apply for membership is included below.</p>
@@ -65,8 +65,9 @@ export class Join extends Component {
                 <p className="indent-more p">The WLC Membership typically runs from mid September through early to mid June.</p>
                 <p className="indent-more p">Lastly, the WLC has a limited budget to provide scholarships to cover a portion of the membership fee for women and trans people who are leading organizations with an annual budget less than or equal to $1.5M. If you are interested in applying for a scholarship please complete the section in the application noting your interest.</p>
             </div>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAfr5h7HX9tTGePIW4Xy2kucOlROF8ganJLYKafELOnU6rbA/viewform"><div className="button">APPLY</div></a>
-            
+
+            {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAfr5h7HX9tTGePIW4Xy2kucOlROF8ganJLYKafELOnU6rbA/viewform"><div className="button">APPLY</div></a>
+             */}
             
 
             </div>
