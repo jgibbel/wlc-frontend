@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb356f81.chunk.css",
-    "main.js": "/static/js/main.727c81a3.chunk.js",
-    "main.js.map": "/static/js/main.727c81a3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ae6ab734.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ae6ab734.js.map",
-    "static/js/2.59fb8e08.chunk.js": "/static/js/2.59fb8e08.chunk.js",
-    "static/js/2.59fb8e08.chunk.js.map": "/static/js/2.59fb8e08.chunk.js.map",
+    "main.css": "/static/css/main.2c27935b.chunk.css",
+    "main.js": "/static/js/main.df07f881.chunk.js",
+    "main.js.map": "/static/js/main.df07f881.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.db552da3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.db552da3.js.map",
+    "static/js/2.0667a891.chunk.js": "/static/js/2.0667a891.chunk.js",
+    "static/js/2.0667a891.chunk.js.map": "/static/js/2.0667a891.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.88f2a23e665e20371bb214a47647a962.js": "/precache-manifest.88f2a23e665e20371bb214a47647a962.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bb356f81.chunk.css.map": "/static/css/main.bb356f81.chunk.css.map",
-    "static/js/2.59fb8e08.chunk.js.LICENSE.txt": "/static/js/2.59fb8e08.chunk.js.LICENSE.txt",
-    "static/media/group-pic.JPG": "/static/media/group-pic.10363df2.JPG",
-    "static/media/wlc-blue.png": "/static/media/wlc-blue.263e35ad.png",
-    "static/media/wlc-lecture-reg.png": "/static/media/wlc-lecture-reg.4c965b19.png",
-    "static/media/wlc-meeting-standard.png": "/static/media/wlc-meeting-standard.52ae7814.png"
+    "static/css/main.2c27935b.chunk.css.map": "/static/css/main.2c27935b.chunk.css.map",
+    "static/js/2.0667a891.chunk.js.LICENSE.txt": "/static/js/2.0667a891.chunk.js.LICENSE.txt",
+    "static/media/group-pic.87056b04.JPG": "/static/media/group-pic.87056b04.JPG",
+    "static/media/wlc-blue.01fdf1ff.png": "/static/media/wlc-blue.01fdf1ff.png",
+    "static/media/wlc-lecture-reg.b24060a6.png": "/static/media/wlc-lecture-reg.b24060a6.png",
+    "static/media/wlc-meeting-standard.76d2d8a1.png": "/static/media/wlc-meeting-standard.76d2d8a1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae6ab734.js",
-    "static/js/2.59fb8e08.chunk.js",
-    "static/css/main.bb356f81.chunk.css",
-    "static/js/main.727c81a3.chunk.js"
+    "static/js/runtime-main.db552da3.js",
+    "static/js/2.0667a891.chunk.js",
+    "static/css/main.2c27935b.chunk.css",
+    "static/js/main.df07f881.chunk.js"
   ]
 }
