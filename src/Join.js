@@ -46,8 +46,8 @@ export class Join extends Component {
                     <li>Pay an annual membership fee* to support WLC’s regular operations, including space rental for gatherings, administrative support for day-to-day operations, food, beverages, etc.  Membership fees are noted below:</li>
                     <li style={{listStyle: 'none'}}> 
                         <ul>
-                            <li>$550 for individuals leading social impact organizations with a budget of greater than $1.5M </li>
-                            <li>$275 for individuals leading social impact organizations with a budget of less than or equal to $1.5M</li>
+                            <li>$550 for individuals leading social impact organizations with a budget of greater than $1M </li>
+                            <li>$275 for individuals leading social impact organizations with a budget of less than or equal to $1M</li>
                         </ul>
                     </li>
                 </ul>
@@ -57,13 +57,13 @@ export class Join extends Component {
                     <li>Currently an ED/CEO/President of a social impact organization</li>
                     <li>Based in NYC and leads a social impact organization</li>
                     <li>Eager to both contribute to and learn from a community of women peers working in the social impact sector </li>
-                    <li>Have worked as a senior level leader (i.e. C-level, Executive Director, Vice President, etc.) either at their current organization or including prior experience for at least 12 months</li>
+                    <li>Have worked as a CEO/ED/President at their current organization or including prior experience for at least 12 months</li>
                     <li>Able to attend at least four WLC online or in-person gatherings annually</li>
                     <li>Comfortable and empowered to share their organization’s best practices, learnings and organizational documents</li>
                 </ul>
 
                 <p className="indent-more p">The WLC Membership typically runs from mid September through early to mid June.</p>
-                <p className="indent-more p">Lastly, the WLC has a limited budget to provide scholarships to cover a portion of the membership fee for women and trans people who are leading organizations with an annual budget less than or equal to $1.5M. If you are interested in applying for a scholarship please complete the section in the application noting your interest.</p>
+                <p className="indent-more p">Lastly, the WLC has a limited budget to provide scholarships to cover a portion of the membership fee for women and trans people who are leading organizations with an annual budget less than or equal to $1M. If you are interested in applying for a scholarship please complete the section in the application noting your interest.</p>
             </div>
 
             {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAfr5h7HX9tTGePIW4Xy2kucOlROF8ganJLYKafELOnU6rbA/viewform"><div className="button">APPLY</div></a>

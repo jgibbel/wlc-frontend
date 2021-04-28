@@ -65,7 +65,7 @@ export class Home extends Component {
                 <div className="a-team">
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Erica.png"
                             name="Erica Hamilton"
-                            title="Faculty Member at NYU & Principal at Arbor Brothers"
+                            title="Founder, Women's Leadership Council & Founder, The Memo I Never Got (MING)"
                             organization="Founder, Women's Leadership Council"
                             
                     />
