@@ -9,9 +9,9 @@ export class Join extends Component {
             
             <div className="page-container">
                 
-                {/* <div className="tan-foot">
-                <p className="tan-text" style={{textAlign: 'center'}}>The WLC Application Will be Open Until May 8th</p>
-            </div> */}
+                <div className="tan-foot">
+                <p className="tan-text" style={{textAlign: 'center'}}>The WLC Application Will be Open Until May 19th</p>
+            </div>
                 <div className="indent">
                 <h1>Membership</h1>
                 <p className="indent-more p">Information on the ideal member profile, member expectations, member benefits and the process to apply for membership is included below.</p>
