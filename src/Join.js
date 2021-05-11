@@ -66,8 +66,8 @@ export class Join extends Component {
                 <p className="indent-more p">Lastly, the WLC has a limited budget to provide scholarships to cover a portion of the membership fee for women and trans people who are leading organizations with an annual budget less than or equal to $1M. If you are interested in applying for a scholarship please complete the section in the application noting your interest.</p>
             </div>
 
-            {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAfr5h7HX9tTGePIW4Xy2kucOlROF8ganJLYKafELOnU6rbA/viewform"><div className="button">APPLY</div></a>
-             */}
+            <a href="https://forms.gle/3mLLHw4STJnPpJWN6"><div className="button">APPLY</div></a>
+            
             
 
             </div>
