@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.2c27935b.chunk.css",
-    "main.js": "/static/js/main.cd85bb9b.chunk.js",
-    "main.js.map": "/static/js/main.cd85bb9b.chunk.js.map",
+    "main.js": "/static/js/main.cac581e3.chunk.js",
+    "main.js.map": "/static/js/main.cac581e3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.db552da3.js",
     "runtime-main.js.map": "/static/js/runtime-main.db552da3.js.map",
-    "static/js/2.0667a891.chunk.js": "/static/js/2.0667a891.chunk.js",
-    "static/js/2.0667a891.chunk.js.map": "/static/js/2.0667a891.chunk.js.map",
+    "static/js/2.4bd02f98.chunk.js": "/static/js/2.4bd02f98.chunk.js",
+    "static/js/2.4bd02f98.chunk.js.map": "/static/js/2.4bd02f98.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.2c27935b.chunk.css.map": "/static/css/main.2c27935b.chunk.css.map",
-    "static/js/2.0667a891.chunk.js.LICENSE.txt": "/static/js/2.0667a891.chunk.js.LICENSE.txt",
+    "static/js/2.4bd02f98.chunk.js.LICENSE.txt": "/static/js/2.4bd02f98.chunk.js.LICENSE.txt",
     "static/media/group-pic.87056b04.JPG": "/static/media/group-pic.87056b04.JPG",
     "static/media/wlc-blue.01fdf1ff.png": "/static/media/wlc-blue.01fdf1ff.png",
     "static/media/wlc-lecture-reg.b24060a6.png": "/static/media/wlc-lecture-reg.b24060a6.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.db552da3.js",
-    "static/js/2.0667a891.chunk.js",
+    "static/js/2.4bd02f98.chunk.js",
     "static/css/main.2c27935b.chunk.css",
-    "static/js/main.cd85bb9b.chunk.js"
+    "static/js/main.cac581e3.chunk.js"
   ]
 }
