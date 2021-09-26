@@ -59,7 +59,32 @@ export class Home extends Component {
                 <div className="indent">
                    <h1 className="no-pad">History</h1>
                     <p className="indent-more p">The WLC was started in 2013 when Erica Hamilton assembled  a small group of women, largely Executive Directors and a C-level leader, of a variety of NYC based social impact organizations  to meet informally, over breakfast, to discuss and provide counsel on personal and professional challenges. Over the years, as the group expanded, it evolved into a membership organization with multiple offerings and convenings. The WLC is managed by an all-volunteer group of current members, the Advisory Committee, who design and organize sessions and programs to be responsive to the real time needs of our members. </p>
-                    <h1>Advisory Committee</h1>
+                </div>
+                <div className="indent">
+                    <h1>Current Advisory Committee</h1>
+                </div>
+
+                <div className="a-team">
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Tene.png"
+                            name="Tené Howard"
+                            title="Executive Director"
+                            organization="Sadie Nash"
+                            
+                    />
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Molly.png"
+                            name="Molly Delano"
+                            title="Executive Director"
+                            organization="Friends of WHEELS"
+                    />
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Gabrielle.png"
+                            name="Gabrielle Horowitz-Prisco"
+                            title="Executive Director"
+                            organization="Lineage Project" 
+                    />
+                </div>
+                
+                <div className="indent">
+                    <h1>Founding Advisory Committee</h1>
                 </div>
 
                 <div className="a-team">

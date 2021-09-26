@@ -21,7 +21,7 @@ export class Members extends Component {
                 ["Danielle Guindo", "Read Alliance", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Danielle+Guindo.png"],
                 ["DeNora Getachew", "DoSomething.org", "CEO", "https://wlc-member-photos.s3.amazonaws.com/DeNora+Getachew.png"],
                 ["Erasma Monticciolo",	"Power of Two",	"Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Erasma+Monticciolo.png"],
-                ["Erica Hamilton", "Institute for Nonprofit Practice", "VP of Strategic Initiatives", "https://wlc-member-photos.s3.amazonaws.com/Erica+Hamilton.png"],
+                ["Erica Hamilton", "The Memo I Never Got (MING)", "Founder", "https://wlc-member-photos.s3.amazonaws.com/Erica+Hamilton.png"],
                 ["Ericka Stallings", "Leadership Learning Community",	"CEO", "https://wlc-member-photos.s3.amazonaws.com/ErickaStallings.png"],
                 ["Fatima Shama", "The Fresh Air Fund",	"Executive Director", "https://wlc-member-photos.s3.amazonaws.com/FatimaShama.png"],
                 ["Gabrielle Horowitz-Prisco", "Lineage Project",	"Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Gabrielle+Horowitz-Prisco.png"],
