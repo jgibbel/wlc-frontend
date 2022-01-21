@@ -59,6 +59,7 @@ export class Members extends Component {
                 ["Ruth Genn", "The Heckscher Foundation for Children", "Senior Leadership Fellow", "https://wlc-member-photos.s3.amazonaws.com/Ruth+Genn.png"],
                 ["Ruth Rathblott", "HEAF", "CEO", "https://wlc-member-photos.s3.amazonaws.com/Ruth+Rathblott.png"],
                 ["Salma Muro", "Literacy Trust", "Incoming Executive Director", "https://wlc-member-photos.s3.amazonaws.com/SalmaMuro.png"],
+                ["Saskia Traill", "ExpandED Schools", "President & CEO", "https://wlc-member-photos.s3.amazonaws.com/SaskiaTraill.png"],
                 ["Shauwea Hamilton", "Bottom Line","Executive Director", "https://wlc-member-photos.s3.amazonaws.com/ShauweaHamilton.png"],
                 ["Shivonne McKay", "ChiPS","Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Shivonne+McKay.png"],
                 ["Tené Howard", "Sadie Nash",	"Executive Director", "https://wlc-member-photos.s3.amazonaws.com/TeneHoward.png"],
