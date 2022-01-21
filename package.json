@@ -2,6 +2,7 @@
   "name": "wlc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.wlcsocialimpact.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -11,7 +12,8 @@
     "react-hamburger-menu": "^1.1.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.3",
-    "react-window-size": "^1.2.2"
+    "react-window-size": "^1.2.2",
+    "follow-redirects": ">=1.14.7"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -38,6 +40,6 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
-  },
-  "homepage": "https://www.wlcsocialimpact.com/"
+  }
+  
 }
