@@ -81,6 +81,16 @@ export class Home extends Component {
                             title="Executive Director"
                             organization="Lineage Project" 
                     />
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Salma.png"
+                            name="Salma Muro"
+                            title="Executive Director"
+                            organization="Literacy Trust" 
+                    />
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Carole.png"
+                            name="Carole Wacey"
+                            title="President & CEO"
+                            organization="Women Creating Change" 
+                    />
                 </div>
                 
                 <div className="indent">
