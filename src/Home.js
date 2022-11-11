@@ -74,11 +74,11 @@ export class Home extends Component {
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Molly.png"
                             name="Molly Delano"
                             title="Executive Director"
-                            organization="Friends of WHEELS"
+                            organization="Futures Ignite"
                     />
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Gabrielle.png"
-                            name="Gabrielle Horowitz-Prisco"
-                            title="Executive Director"
+                            name="Gabrielle Prisco"
+                            title="Co-Executive Director"
                             organization="Lineage Project" 
                     />
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Salma.png"
@@ -88,8 +88,13 @@ export class Home extends Component {
                     />
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Carole.png"
                             name="Carole Wacey"
-                            title="President & CEO"
+                            title="Former President & CEO"
                             organization="Women Creating Change" 
+                    />                    
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Katherine.png"
+                            name="Katherine Mott"
+                            title="COO"
+                            organization="Gilder Lehrman Institute" 
                     />
                 </div>
                 
