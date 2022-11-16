@@ -45,6 +45,7 @@ export class Members extends Component {
                 ["Lynne Holden", "Mentoring In Medicine, Inc", "CEO", "https://wlc-member-photos.s3.amazonaws.com/LynneHolden.png"],
                 ["Maria Lizardo", "NMIC", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Maria+Lizardo.png"],
                 ["Marissa Martin", "The Advocacy Institute",	"Executive Director", "https://wlc-member-photos.s3.amazonaws.com/MarissaMartin.png"],
+                ["Marjorie Schulman", "Brooklyn Boatworks",	"Former Executive Director", "https://wlc-member-photos.s3.amazonaws.com/MarjorieSchulman.png"],
                 ["Melissa Aase", "University Settlement", "Chief Executive Officer", "https://wlc-member-photos.s3.amazonaws.com/Melissa+Aase.png"],
                 ["Michele Kotler", "Community-Word Project", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Michele+Kotler.png"],
                 ["Michelle Yanche", "Good Shepherd Services",	"Executive Director", "https://wlc-member-photos.s3.amazonaws.com/MichelleYanche.png"],
