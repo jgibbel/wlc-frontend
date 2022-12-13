@@ -45,7 +45,7 @@ export class Members extends Component {
                 ["Lynne Holden", "Mentoring In Medicine, Inc", "CEO", "https://wlc-member-photos.s3.amazonaws.com/LynneHolden.png", "https://www.linkedin.com/in/lynne-holden-md-20562445/"],
                 ["Maria Lizardo", "NMIC", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Maria+Lizardo.png", "https://www.linkedin.com/in/maria-lizardo-5348921a/"],
                 ["Marissa Martin", "The Advocacy Institute",	"Executive Director", "https://wlc-member-photos.s3.amazonaws.com/MarissaMartin.png", "https://www.linkedin.com/in/marissa-martin-lmsw-b10560a"],
-                ["Marjorie Schulman", "",	"Former Executive Director", "https://wlc-member-photos.s3.amazonaws.com/MarjorieSchulman.png", ""],
+                ["Marjorie Schulman", "",	"Former Executive Director", "https://wlc-member-photos.s3.amazonaws.com/MarjorieSchulman.png", "https://www.linkedin.com/in/marjorie-schulman-3898487/"],
                 ["Melissa Aase", "University Settlement", "Chief Executive Officer", "https://wlc-member-photos.s3.amazonaws.com/MelissaAase_update.png", "https://www.linkedin.com/in/melissa-aase-0943754/"],
                 ["Michele Kotler", "Community-Word Project", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Michele+Kotler.png", "https://www.linkedin.com/in/michelekotler/"],
                 ["Michelle Yanche", "Good Shepherd Services",	"Executive Director", "https://wlc-member-photos.s3.amazonaws.com/MichelleYanche.png", "https://www.linkedin.com/in/michelle-yanche-1418934a"],
