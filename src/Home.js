@@ -84,7 +84,7 @@ export class Home extends Component {
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Salma.png"
                             name="Salma Muro"
                             title="Executive Director"
-                            organization="Literacy Trust" 
+                            organization="Christadora" 
                     />
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Carole.png"
                             name="Carole Wacey"
@@ -92,7 +92,7 @@ export class Home extends Component {
                             organization="Women Creating Change" 
                     />                    
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Katherine.png"
-                            name="Katherine Mott"
+                            name="Kathrine Mott"
                             title="COO"
                             organization="Gilder Lehrman Institute" 
                     />
