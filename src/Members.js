@@ -58,7 +58,7 @@ export class Members extends Component {
                 ["Rochelle Sinclair",	"OneGoal", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Rochelle+Sinclair.png", "https://www.linkedin.com/in/remsinclair/"],
                 ["Ruth Genn", "Literacy Academy Collective", "Co-Founder and Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Ruth+Genn.png", "https://www.linkedin.com/in/ruth-genn-66b1a35/"],
                 ["Ruth Rathblott, MSW", "RuthRathblott.com", "TEDx Speaker, Author, DEI Consultant", "https://wlc-member-photos.s3.amazonaws.com/RuthRathblott.png", "https://www.linkedin.com/in/ruth-rathblott/"],
-                ["Salma Muro", "Christadora", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/SalmaMuro.png", "https://www.linkedin.com/in/salmac"],
+                ["Salma Muro", "Christodora", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/SalmaMuro.png", "https://www.linkedin.com/in/salmac"],
                 ["Saskia Traill", "ExpandED Schools", "President & CEO", "https://wlc-member-photos.s3.amazonaws.com/SaskiaTraill.png", "https://www.linkedin.com/in/saskia-traill-77bbba1/"],
                 ["Sharon Sewell-Fairman", "Workforce Professionals Training Institute","CEO", "https://wlc-member-photos.s3.amazonaws.com/SharonSewellFairman.png", "https://www.linkedin.com/in/sharon-sewell-fairman-896515b/"],
                 ["Shauwea Hamilton", "Bottom Line","Executive Director", "https://wlc-member-photos.s3.amazonaws.com/ShauweaHamilton.png", "https://www.linkedin.com/in/shauwea/"],
