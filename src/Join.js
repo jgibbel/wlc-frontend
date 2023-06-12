@@ -55,7 +55,6 @@ export class Join extends Component {
                     <li>$300 for leaders of organizations with a budget of greater than $250K but less than $1.5M</li>
 
                     <li>$500 for leaders of organizations with a budget of greater than $1.5M but less than $5M</li>
-                    <li>Pay an annual membership fee* to support WLC’s regular operations, including space rental for gatherings, administrative support for day-to-day operations, food, beverages, etc.  Membership fees are noted below:</li>
                     <li>
                     $700 for leaders of organizations with a budget of greater than $5M
                     </li>
