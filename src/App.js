@@ -12,6 +12,7 @@ import Landing from './Landing'
 import HeaderWhite from './components/HeaderWhite'
 import HeaderTan from './components/HeaderTan'
 import Programs from "./Programs"
+import ScrollToTop from './helpers/ScrollToTop';
 
 
 import {
@@ -29,7 +30,7 @@ class App extends Component {
   render() {
   return (
     <Router>
-    
+    <ScrollToTop />
     <Switch>
         <Route exact path="/wlc-frontend">
           
@@ -47,10 +48,10 @@ class App extends Component {
         <HeaderWhite />
           <Mission />
         </Route>
-        <Route path="/programs">
+        {/* <Route path="/programs">
         <HeaderWhite />
           <Programs />
-        </Route>
+        </Route> */}
         <Route exact path="/members">
         <HeaderWhite />
           <Members />

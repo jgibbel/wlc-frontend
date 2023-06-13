@@ -20,7 +20,8 @@ export class Home extends Component {
                     <div className="w1-container">
                         <p className="we-are">We are committed to creating opportunities and sharing information to enable more women to live their best lives and do their best work.</p>
                         <p className="we-are">We provide and receive individual and collective support to enable our members to serve as powerful, effective leaders in their lives and the social impact sector.</p>
-                        <p className="we-are">We seek to provide support to women leading NYC based social enterprises through a membership based community and a <Link className="about-text-link" to="/programs">mentoring program</Link> that’s open to non-members.</p>
+                        <p className="we-are">We seek to provide support to women leading NYC based social enterprises through a membership based community.</p>
+                        {/* and a <Link className="about-text-link" to="/programs">mentoring program</Link> that’s open to non-members. */}
                         <p className="we-are">We are currently or formerly senior-level leaders of NYC based social impact organizations (i.e., C-level, Executive Directors, Presidents).</p>
                     </div>
                     <div className="w2-container bottom">
@@ -30,7 +31,7 @@ export class Home extends Component {
                 
                 <div className="indent mission">
                     <h1 className="white no-pad">Mission</h1>
-                    <p className="indent-more p white">The mission of the WLC is to provide the fellowship, resources, and community that women Executives, in the non-profit sector, often lack and cannot identify given the extreme time constraints of their roles. The mission of the WLC is to foster community and collaboration between experienced social impact leaders who are committed to:</p>
+                    <p className="indent-more p white">The mission of the WLC is to provide the fellowship, resources, and community that female-identified Executives, in the non-profit sector, often lack and cannot identify given the extreme time constraints of their roles. The mission of the WLC is to foster community and collaboration between experienced social impact leaders who are committed to:</p>
                     <ul className="indent-more p white">
                         <li>Seeking out opportunities for professional and personal development</li>
                         <li>Providing and receiving coaching</li>
@@ -58,48 +59,49 @@ export class Home extends Component {
                 
                 <div className="indent">
                    <h1 className="no-pad">History</h1>
-                    <p className="indent-more p">The WLC was started in 2013 when Erica Hamilton assembled  a small group of women, largely Executive Directors and a C-level leader, of a variety of NYC based social impact organizations  to meet informally, over breakfast, to discuss and provide counsel on personal and professional challenges. Over the years, as the group expanded, it evolved into a membership organization with multiple offerings and convenings. The WLC is managed by an all-volunteer group of current members, the Advisory Committee, who design and organize sessions and programs to be responsive to the real time needs of our members. </p>
+                    <p className="indent-more p">The WLC was started in 2013 when <a href="https://www.linkedin.com/in/ericadhamilton/">Erica Hamilton</a> assembled  a small group of women, largely Executive Directors and a C-level leader, of a variety of NYC based social impact organizations  to meet informally, over breakfast, to discuss and provide counsel on personal and professional challenges. Over the years, as the group expanded, it evolved into a membership organization with multiple offerings and convenings. The WLC is managed by the Advisory Committee, who design and organize sessions and programs to be responsive to the real-time needs of our members. </p>
                 </div>
                 <div className="indent">
                     <h1>Current Advisory Committee</h1>
                 </div>
 
                 <div className="a-team">
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Molly.png"
+                            name="Molly Delano"
+                            title="Executive Director"
+                            organization="Futures Ignite"
+                    />
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Tene.png"
                             name="Tené Howard"
                             title="Executive Director"
                             organization="Sadie Nash"
                             
                     />
-                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Molly.png"
-                            name="Molly Delano"
-                            title="Executive Director"
-                            organization="Futures Ignite"
-                    />
-                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Gabrielle.png"
-                            name="Gabrielle Prisco"
-                            title="Co-Executive Director"
-                            organization="Lineage Project" 
+                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Katherine.png"
+                            name="Kathrine Mott"
+                            title="COO"
+                            organization="Gilder Lehrman Institute" 
                     />
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Salma.png"
                             name="Salma Muro"
                             title="Executive Director"
                             organization="Christodora" 
                     />
+                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Gabrielle.png"
+                            name="Gabrielle Prisco"
+                            title="Co-Executive Director"
+                            organization="Lineage Project" 
+                    />
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Carole.png"
                             name="Carole Wacey"
                             title="Former President & CEO"
                             organization="Women Creating Change" 
                     />                    
-                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Katherine.png"
-                            name="Kathrine Mott"
-                            title="COO"
-                            organization="Gilder Lehrman Institute" 
-                    />
+                    
                 </div>
                 
                 <div className="indent">
-                    <h1>Founding Advisory Committee</h1>
+                    <h1>Founding Advisory Committee & Emeritus WLC Members</h1>
                 </div>
 
                 <div className="a-team">

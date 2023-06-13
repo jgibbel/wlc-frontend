@@ -54,8 +54,8 @@ displayNavBar = () => {
         <NavLink className="underline-tan" to="/about"><li className='nav-link-tan menu-link'>ABOUT</li></NavLink>
         <NavLink className="underline-tan" to="/members"><li className='nav-link-tan menu-link'>MEMBERS</li></NavLink>
         <NavLink className="underline-tan" to="/mission"><li className='nav-link-tan menu-link' >WHAT WE OFFER</li></NavLink>
-        <NavLink className="underline-tan" to="/programs"><li className='nav-link-tan menu-link'>PROGRAMS</li></NavLink>
-       
+        {/* <NavLink className="underline-tan" to="/programs"><li className='nav-link-tan menu-link'>PROGRAMS</li></NavLink>
+        */}
         
         <NavLink className="underline-tan" to="/join"><li className='nav-link-tan menu-link'>JOIN</li></NavLink>
   
@@ -69,8 +69,8 @@ displayNavBar = () => {
         <NavLink className="underline-tan" to="/about"><li onClick={this.handleClickTop} className='ham-link-tan menu-link'>ABOUT</li></NavLink>
         <NavLink className="underline-tan" to="/members"><li onClick={this.handleClickTop} className='ham-link-tan menu-link'>MEMBERS</li></NavLink>
         <NavLink className="underline-tan" to="/mission"><li onClick={this.handleClickTop} className='ham-link-tan menu-link'>WHAT WE OFFER</li></NavLink>
-        <NavLink className="underline-tan" to="/programs"><li onClick={this.handleClickTop} className='ham-link-tan menu-link'>PROGRAMS</li></NavLink>
-       
+        {/* <NavLink className="underline-tan" to="/programs"><li onClick={this.handleClickTop} className='ham-link-tan menu-link'>PROGRAMS</li></NavLink>
+        */}
         
         <NavLink className="underline-tan" to="/join"><li onClick={this.handleClickTop} className='ham-link-tan menu-link'>JOIN</li></NavLink>
   
