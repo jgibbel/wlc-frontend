@@ -17,7 +17,6 @@ export class Join extends Component {
                 <p className="indent-more p"><b>Our membership process is rooted in values of equity and accessibility. Potential members must complete a simple application and meet the following criteria:</b></p>
                 <ol className="indent-more p">
                     <li>Currently an Executive Director/Co-Executive Director/CEO/President of a social impact organization based in NYC; </li>
-                    <li>Have worked as an Executive Director/Co-Executive Director/CEO/President of a social impact organization for at least 12 months (can include work at prior organizations);</li>
                     <li>Identify as female—transwomen, cis-gendered women, and nonbinary people who are interested in a female-identified space are welcome; and</li>
                     <li>Be willing and able to commit to participating in the WLC community for an entire program year (typically mid-September – mid-June), including: </li>
                 </ol>
@@ -59,7 +58,7 @@ export class Join extends Component {
                     $700 for leaders of organizations with a budget of greater than $5M
                     </li>
                 </ul>
-                <p className="indent-more p"><b>If you’re interested in joining for our next program year (September 2023 – June 2024), please complete <a href="https://www.surveymonkey.com/r/MLMYBG7">this application</a> by Friday, June 30, 2023. We will be in touch by July 14th.</b> </p>
+                <p className="indent-more p"><b>If you’re interested in joining for our next program year (September 2023 – June 2024), please complete <a href="https://www.surveymonkey.com/r/MLMYBG7">this application</a> by Friday, June 30, 2023. We will be in touch by July 14th; admitted members will receive information about how to make membership payments.</b> </p>
                 <p className='indent-more p'>
                 If you have any questions, please reach out to Jennie, the WLC’s incredible Virtual Assistant, at assistant@wlcsocialimpact.com.
                 </p>
