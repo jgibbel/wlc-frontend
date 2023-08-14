@@ -8,11 +8,11 @@ const Landing = () => {
         // <div className="landing-container">
             <div className="vert-center">
             <HeaderWhite />
-            <a href='https://www.wlcsocialimpact.com/join'>
+            {/* <a href='https://www.wlcsocialimpact.com/join'>
             <div className="tan-foot">
                 <p className="tan-text" style={{textAlign: 'center'}}>Currently accepting applications for the 2023-2024 program year.</p>
             </div>
-            </a>
+            </a> */}
             <div className="l-t-c">
             <p className="landing-text">Strong women build each other up.</p>
             </div>
