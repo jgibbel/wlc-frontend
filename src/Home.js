@@ -66,11 +66,11 @@ export class Home extends Component {
                 </div>
 
                 <div className="a-team">
-                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Molly.png"
+                    {/* <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Molly.png"
                             name="Molly Delano"
                             title="Executive Director"
                             organization="Futures Ignite"
-                    />
+                    /> */}
                     <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Tene.png"
                             name="Tené Howard"
                             title="Executive Director"
@@ -92,11 +92,11 @@ export class Home extends Component {
                             title="Co-Executive Director"
                             organization="Lineage Project" 
                     />
-                    <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Carole.png"
+                    {/* <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Carole.png"
                             name="Carole Wacey"
                             title="Former President & CEO"
                             organization="Women Creating Change" 
-                    />                    
+                    />                     */}
                     
                 </div>
                 
