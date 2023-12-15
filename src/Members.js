@@ -97,7 +97,7 @@ export class Members extends Component {
         return (
         <div>
                  
-            <h1 className="member-heading">2022-2023 WLC Membership</h1>
+            <h1 className="member-heading">2023-2024 WLC Membership</h1>
 
             <div className="m-container">
                 {memberArray.map((member) => {
