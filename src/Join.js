@@ -10,10 +10,10 @@ export class Join extends Component {
             <div className="page-container">
                 
                 <div className="tan-foot">
-                <p className="tan-text" style={{textAlign: 'center'}}>Applications for the 2024 – 2025 program year are now open!  The application, available <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSHVE1blDimPEccick24kF9Qo2B7cHEWgdm3UQBSyF5ixsYg/viewform">here</a>, is due Friday, August 23. Applicants will be notified on a rolling basis, no later than Friday, August 30.</p>
+                <p className="tan-text" style={{textAlign: 'center'}}>Applications for the 2025 – 2026 program year will be available in late spring.</p>
             </div>
                 <div className="indent">
-                <p className="indent-more p">Thank you for your interest in the Women’s Leadership Council. Our membership/program year generally runs from September through June of each year. We typically open applications for new members in the summer, and onboard new WLC members in the fall.</p>
+                <p className="indent-more p">Thank you for your interest in the Women’s Leadership Council. Our membership/program year generally runs from September through June of each year. We typically open applications for new members in the summer, and onboard new WLC members in the fall. We anticipate that applications for the 2025–26 cohort will be available in May 2025.</p>
                 <p className="indent-more p">If you have any questions, please reach out to us at <a href = "mailto: assistant@wlcsocialimpact.com.">assistant@wlcsocialimpact.com.</a></p>
                 </div><div>
                 <p className='tan-text' style={{textAlign: 'center'}}>WLC Eligibility Requirements
@@ -26,7 +26,7 @@ export class Join extends Component {
                 </ol>
                 <div className='indent'>
                 <ul className="indent-more p" >
-                    <li>Attending (to the extent possible) 4 – 5 meetings/year. These meetings are the primary venue for members to provide/receive peer support; learn and share information and resources; build relationships; and hear guest speakers (generally subject matter experts in topics members express interest in). Meetings are generally 1.5 hours; scheduled at the beginning of the year; and scheduled on a rotation of days/times to account for as wide an array of schedules as possible. They are tentatively scheduled for:</li>
+                    <li>Attending (to the extent possible) 4 – 5 meetings/year. These meetings are the primary venue for members to provide/receive peer support; learn and share information and resources; build relationships; and hear guest speakers (generally subject matter experts in topics members express interest in). Meetings are generally 1.5 hours; scheduled at the beginning of the year; and scheduled on a rotation of days/times to account for as wide an array of schedules as possible. In 2024-2025 are tentatively scheduled for:</li>
                     <ul className="indent-more p" >
                         <li>Wednesday, September 25, 9:00 am – 10:45 am (in person)</li>
                         <li>Thursday, December 5, 12:00 pm – 1:30 pm (via Zoom)</li>
@@ -59,10 +59,10 @@ export class Join extends Component {
                 <p className="indent-more p"><b>The WLC is funded by membership fees, which are tiered based on organizational budget size. 
                     <br></br><br></br>
                     
-                We believe that the return on investment for organizations is exponential, and we feel strongly that these fees should be paid by the organizations for which our members work.
+                We believe that the return on investment for organizations is significant, and we feel strongly that these fees should be paid by the organizations for which our members work.
                 <br></br><br></br>
-                <i>Scholarships are available, and we’re committed to not turning anyone away due to the ability of their organization to pay for membership.</i> </b></p>
-                <p className="indent-more p"><b>2023 – 2024 Program Year Membership Fees<br></br> <span style={{fontSize: '16px'}}>Please note: These fees may change in future program years.</span></b></p>
+                <i>Scholarships –– in an amount up to the membership fee less $100 –– are available. We’re committed to not turning anyone away due to the ability of their organization to pay for membership.</i> </b></p>
+                <p className="indent-more p"><b>2024 – 2025 Program Year Membership Fees<br></br> <span style={{fontSize: '16px'}}>Please note: These fees may change in future program years.</span></b></p>
                 <ul className="indent-more p">
                     <li>$100 for leaders of organizations with a budget of $250K or less, or for leaders currently unaffiliated with an organization</li>
                     <li>$315 for leaders of organizations with a budget of greater than $250K but less than $1.5M</li>
