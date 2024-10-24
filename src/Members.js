@@ -38,7 +38,7 @@ export class Members extends Component {
                 ["Erasma Beras-Monticciolo",	"Tambora Dialogues",	"Founder", "https://wlc-member-photos.s3.amazonaws.com/ErasmaMonticciolo_update.png", "https://www.linkedin.com/in/erasma-beras-monticciolo-33b26a6/"],
                 ["Erica Doherty", "Literacy Trust", "Executive Director", "https://wlc-member-photos.s3.amazonaws.com/EricaDoherty.png", "https://www.linkedin.com/in/erica-doherty-7b61a977/"],
                 ["Erica Hamilton", "The Memo I Never Got (MING)", "Founder", "https://wlc-member-photos.s3.amazonaws.com/Erica+Hamilton.png", "https://www.linkedin.com/in/ericadhamilton/"],
-                ["Gabrielle Prisco", "Lineage Project",	"Co-Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Gabrielle+Horowitz-Prisco.png", "https://www.linkedin.com/in/gabrielle-prisco-8441726b/"],
+                ["Gabrielle Prisco", "",	"Consultant/Writer", "https://wlc-member-photos.s3.amazonaws.com/Gabrielle+Horowitz-Prisco.png", "https://www.linkedin.com/in/gabrielle-prisco-8441726b/"],
                 ["Gayle Villani", "GO Project",	"Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Gayle+Villani.png", "https://www.linkedin.com/in/gayle-villani-82247031/"],
                 ["Gennifer Herley", "TransNewYork",	"Executive Director", "https://wlc-member-photos.s3.amazonaws.com/GenniferHerley.png", "https://www.linkedin.com/in/dr-gennifer-herley-phd-8aa954b6/"],
                 ["Jacki	Kelly",	"Hudson Guild", "Deputy Executive Director", "https://wlc-member-photos.s3.amazonaws.com/Jacki+Kelly.png", "https://www.linkedin.com/in/jacquelinekelly217/"],

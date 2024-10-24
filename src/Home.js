@@ -89,8 +89,8 @@ export class Home extends Component {
                     />
                      <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Gabrielle.png"
                             name="Gabrielle Prisco"
-                            title="Co-Executive Director"
-                            organization="Lineage Project" 
+                            title="Consultant/Writer"
+                            organization="" 
                     />
                     {/* <ACard photo="https://wlc-member-photos.s3.amazonaws.com/AC-Carole.png"
                             name="Carole Wacey"
