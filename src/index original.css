@@ -696,7 +696,7 @@ a {
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 0.45;
+  opacity: 0;
   transition: .5s ease;
   background-color: var(--blue);
   /* text-align: center; */
@@ -707,11 +707,11 @@ a {
 }
 
 .m-card-container:hover .m-overlay {
-  opacity: 0.25;
+  opacity: 0.8;
 }
 
 .m-text {
-  color: white;
+  color:white;
   padding-left: 10px;
   margin: 2px;
   
