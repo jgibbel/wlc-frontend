@@ -25,7 +25,7 @@ export class Members extends Component {
 ["Rachel Cytron","Cymblem Consulting","Founder","https://wlc-member-photos.s3.amazonaws.com/RachelCytron.png","https://www.linkedin.com/in/rachelcytron/"],
 ["Alaina Daniels","Trans formative Schools","Co-Founder/Executive Director","https://wlc-member-photos.s3.amazonaws.com/AlainaDaniels.png","https://www.linkedin.com/in/alaina-daniels-b1526213/"],
 ["Mika Dashman","Restorative Justice Initiative","Founding Director","https://wlc-member-photos.s3.amazonaws.com/MikaDashman.png","https://www.linkedin.com/in/mika-dashman-7920237b/"],
-["Taryn  Davis","After School All Stars","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","www.linkedin.com/in/taryn-d-4873577"],
+["Taryn Davis","After School All Stars","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png", "www.linkedin.com/in/taryn-d-4873577"],
 ["Molly Delano","Futures Ignite","Executive Director","https://wlc-member-photos.s3.amazonaws.com/Molly+Delano.png","https://www.linkedin.com/in/molly-delano-b11ab416/"],
 ["Nolvia Delgado","Kaplan Educational Foundation","Executive Director","https://wlc-member-photos.s3.amazonaws.com/NolviaDelgado.png","https://www.linkedin.com/in/nolvialdelgado/"],
 ["Casey  DePasquale","GCSA","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","https://www.linkedin.com/in/casey-depasquale-1b5b7115"],

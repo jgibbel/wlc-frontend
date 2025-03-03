@@ -696,9 +696,9 @@ a {
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 0.45;
+  opacity: 1;
   transition: .5s ease;
-  background-color: var(--blue);
+  background-color: rgba(13, 25, 163, .4);
   /* text-align: center; */
 }
 
@@ -707,7 +707,7 @@ a {
 }
 
 .m-card-container:hover .m-overlay {
-  opacity: 0.25;
+  opacity: 0.8;
 }
 
 .m-text {
