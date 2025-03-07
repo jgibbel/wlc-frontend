@@ -25,7 +25,7 @@ export class Members extends Component {
 ["Rachel Cytron","Cymblem Consulting","Founder","https://wlc-member-photos.s3.amazonaws.com/RachelCytron.png","https://www.linkedin.com/in/rachelcytron/"],
 ["Alaina Daniels","Trans formative Schools","Co-Founder/Executive Director","https://wlc-member-photos.s3.amazonaws.com/AlainaDaniels.png","https://www.linkedin.com/in/alaina-daniels-b1526213/"],
 ["Mika Dashman","Restorative Justice Initiative","Founding Director","https://wlc-member-photos.s3.amazonaws.com/MikaDashman.png","https://www.linkedin.com/in/mika-dashman-7920237b/"],
-["Taryn Davis","After School All Stars","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png", "www.linkedin.com/in/taryn-d-4873577"],
+["Taryn Davis","After School All Stars","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png", "https://www.linkedin.com/in/taryn-d-4873577"],
 ["Molly Delano","Futures Ignite","Executive Director","https://wlc-member-photos.s3.amazonaws.com/Molly+Delano.png","https://www.linkedin.com/in/molly-delano-b11ab416/"],
 ["Nolvia Delgado","Kaplan Educational Foundation","Executive Director","https://wlc-member-photos.s3.amazonaws.com/NolviaDelgado.png","https://www.linkedin.com/in/nolvialdelgado/"],
 ["Casey  DePasquale","GCSA","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","https://www.linkedin.com/in/casey-depasquale-1b5b7115"],
@@ -41,7 +41,7 @@ export class Members extends Component {
 ["Katy Gaul-Stigge","Goodwill of NY & NJ","CEO","https://wlc-member-photos.s3.amazonaws.com/KatyGaul.png","https://www.linkedin.com/in/katy-gaul-stigge-278270a"],
 ["Ruth Genn","Literacy Academy Collective","Co-Founder and Executive Director","https://wlc-member-photos.s3.amazonaws.com/Ruth+Genn.png","https://www.linkedin.com/in/ruth-genn-66b1a35/"],
 ["Barbara Glassman","The Sylvia Center","Executive Director","https://wlc-member-photos.s3.amazonaws.com/BarbaraGlassman.png","https://www.linkedin.com/in/barbara-glassman/"],
-["Joy Goldsmith","Girls on the Run NYC","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","www.linkedin.com/in/joy-goldsmith-a99151b"],
+["Joy Goldsmith","Girls on the Run NYC","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","https://www.linkedin.com/in/joy-goldsmith-a99151b"],
 ["Jill Gomez","Poughkeepsie Children's Cabinet ","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png",""],
 ["Jessica Greer Morris","Williamsburg House","Program Director","https://wlc-member-photos.s3.amazonaws.com/JessicaGreerMorris.png","https://www.linkedin.com/in/jessica-greer-morris-a089723/"],
 ["Robin Grossman","Playworks","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","https://www.linkedin.com/in/robin-grossman-b4747bb/"],
@@ -90,7 +90,7 @@ export class Members extends Component {
 ["Alba Rodriguez","YWCA of the City of New York","CEO","https://wlc-member-photos.s3.amazonaws.com/AlbaRodriguez.png","https://www.linkedin.com/in/alba-rodriguez-13a18315a/"],
 ["Dr. Anju J. Rupchandani","Zone 126","Executive Director","https://wlc-member-photos.s3.amazonaws.com/AnjuRupchandani_update.png","https://www.linkedin.com/in/anju-j-rupchandani-m-s-ed-b713707"],
 ["Marjorie Schulman","NYC First","Vice President, Programs","https://wlc-member-photos.s3.amazonaws.com/MarjorieSchulman.png","https://www.linkedin.com/in/marjorie-schulman-3898487/"],
-["Milly Seraus-Roache","Future Leaders in Action ","Executive Director ","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","www.LinkedIn.com/in/millyseraus "],
+["Milly Seraus-Roache","Future Leaders in Action ","Executive Director ","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","https://www.LinkedIn.com/in/millyseraus "],
 ["Sharon Sewell-Fairman","Workforce Professionals Training Institute","CEO","https://wlc-member-photos.s3.amazonaws.com/SharonSewellFairman_update.png","https://www.linkedin.com/in/sharon-sewell-fairman-896515b/"],
 ["Seema Shah","Civic Hall","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","https://www.linkedin.com/in/seemabshah/"],
 ["Allison Shillingford","Navigate the Maze to Achievement","Founder/Executive Director","https://wlc-member-photos.s3.amazonaws.com/AllisonShillingford.png","https://www.linkedin.com/in/allisonbonnershillingford/"],
@@ -103,7 +103,7 @@ export class Members extends Component {
 ["Carole Wacey","Edible Schoolyard NYC","Interim Executive Director","https://wlc-member-photos.s3.amazonaws.com/Carole+Wacey.png","https://www.linkedin.com/in/carole-wacey-82397a160/"],
 ["Carli Wargo","InService Foundation","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","https://www.linkedin.com/in/carli-wargo-80116893/"],
 ["Rebecca Williford","Disability Rights Advocates","President & CEO","https://wlc-member-photos.s3.amazonaws.com/RebeccaWilliford.png","https://www.linkedin.com/in/rebecca-williford-57908720/"],
-["Jen Wohl","StreetSquash","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","www.linkedin.com/in/jen-wohl"],
+["Jen Wohl","StreetSquash","Executive Director","https://wlc-member-photos.s3.us-east-1.amazonaws.com/blank.png","https://www.linkedin.com/in/jen-wohl"],
 ["Michelle Yanche","Good Shepherd Services","Executive Director","https://wlc-member-photos.s3.amazonaws.com/MichelleYanche.png","https://www.linkedin.com/in/michelle-yanche-1418934a"]
         
         ]
@@ -111,7 +111,7 @@ export class Members extends Component {
         return (
         <div>
                  
-            <h1 className="member-heading">2023-2024 WLC Membership</h1>
+            <h1 className="member-heading">2024-2025 WLC Membership</h1>
 
             <div className="m-container">
                 {memberArray.map((member) => {
