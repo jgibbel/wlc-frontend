@@ -13,7 +13,7 @@ export class Join extends Component {
                 <p className="tan-text" style={{textAlign: 'center'}}>Applications for the 2025 – 2026 program year are now live!</p>
             </div>
                 <div className="indent">
-                <p className="indent-more p">Thank you for your interest in the Women’s Leadership Council. Our upcoming membership/program year will run from September 2025 through June 2026. To apply for the 2025–26 cohort, <a href="1FAIpQLSfsvnu3EBDlMpxte2uqEomgfnISHnoniLcLVLYeeXEhGpSqvQ">please fill out this Google Form.</a></p>
+                <p className="indent-more p">Thank you for your interest in the Women’s Leadership Council. Our upcoming membership/program year will run from September 2025 through June 2026. To apply for the 2025–26 cohort, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsvnu3EBDlMpxte2uqEomgfnISHnoniLcLVLYeeXEhGpSqvQ/viewform?usp=dialog">please fill out this Google Form.</a></p>
                 <p className="indent-more p">If you have any questions, please reach out to us at <a href = "mailto: assistant@wlcsocialimpact.com.">assistant@wlcsocialimpact.com.</a></p>
                 </div><div>
                 <p className='tan-text' style={{textAlign: 'center'}}>WLC Eligibility Requirements
@@ -85,7 +85,7 @@ export class Join extends Component {
                 </p>
             </div>*/}
 
-            <a href="https://www.surveymonkey.com/r/MLMYBG7"><div className="button">APPLY</div></a> 
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsvnu3EBDlMpxte2uqEomgfnISHnoniLcLVLYeeXEhGpSqvQ/viewform?usp=dialog"><div className="button">APPLY</div></a> 
             
             
 </div>
