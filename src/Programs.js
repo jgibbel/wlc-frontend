@@ -8,7 +8,7 @@ export class Programs extends Component {
                 <Testimonial photo="https://source.unsplash.com/150x150/?nature,water"
                         name="Danielle Guindo"
                         title="Executive Director, Read Alliance"
-                        quote="I want to thank all of you again for the tremendous support we have provided one another, especially during this time of COVID-19. Just think about the number of people we are helping exponentially through our mutual aid, because the strength and wisdom of the group reaches our staff (and families!) too." 
+                        quote="I want to thank all of you again for the tremendous support we have provided one another…Just think about the number of people we are helping exponentially through our mutual aid, because the strength and wisdom of the group reaches our staff (and families!) too." 
                 />
                 <div className="indent">
                 <h1>2021 WLC Mentoring Program</h1>

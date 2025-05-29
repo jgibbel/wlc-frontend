@@ -14,7 +14,7 @@ export class Mission extends Component {
                 <Testimonial photo="https://source.unsplash.com/150x150/?nature,water"
                         name="Danielle Guindo"
                         title="Executive Director, Read Alliance"
-                        quote="I want to thank all of you again for the tremendous support we have provided one another, especially during this time of COVID-19. Just think about the number of people we are helping exponentially through our mutual aid, because the strength and wisdom of the group reaches our staff (and families!) too." 
+                        quote="I want to thank all of you again for the tremendous support we have provided one another…Just think about the number of people we are helping exponentially through our mutual aid, because the strength and wisdom of the group reaches our staff (and families!) too." 
                 />
             
                 <h1 className="indent">Community</h1>
@@ -42,7 +42,7 @@ export class Mission extends Component {
                 </ul>
                
                 <h1 className="indent">Annual WLC Retreat</h1>
-                <p className="indent indent-more p">Invitation to attend the Annual WLC Retreat which is currently a half-day event designed to aid executive women find the space they need to connect with a community of peers to pursue the inspiration, information, and resources they are seeking to help them thrive in their personal and professional lives. The WLC Retreat agenda is designed differently each year with the shape of the Retreat defined by the real-time interests, challenges, and needs of attendees.</p>
+                <p className="indent indent-more p">All members are invited to attend the Annual WLC Retreat — a half-day event designed to provide executive women with a dedicated space to connect with a supportive community of peers. The retreat offers a chance to recharge, gain inspiration, and access the insights and resources needed to thrive both personally and professionally. Each year, the retreat agenda is uniquely shaped by the real-time interests, challenges, and needs of its attendees, ensuring relevant and meaningful engagement.</p>
             </div>
             
         );
