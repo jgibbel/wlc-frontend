@@ -31,7 +31,7 @@ export class Join extends Component {
                         <li>Wednesday, September 17, 9:00 am – 10:45 am (in person)</li>
                         <li>Thursday, December 4, 12:00 pm – 1:30 pm (via Zoom)</li>
                         <li>Tuesday, February 10, 3:30 pm – 5:00 pm (in person)</li>
-                        <li>Thursday, April 22, 9:00 am – 10:45 am (in person)</li>
+                        <li>Wednesday, April 22, 9:00 am – 10:45 am (in person)</li>
                         <li>Wednesday, June 10, 12:30 – 5:00 pm (in-person retreat)</li>
                     </ul>
                         <li>
